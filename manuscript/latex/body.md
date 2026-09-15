@@ -175,8 +175,7 @@ table. Covariates are those that appear as adjustment terms in the published pri
 model. Variables tested only for baseline balance do not count. Each paper is classified
 as a primary report, which reports the trial's prespecified primary analysis, or a
 secondary report, which presents an exploratory or secondary analysis with its own
-headline estimate. Field and population are coded for each trial. A second coder is to repeat the mapping blind to the first, and agreement per field will
-be reported.
+headline estimate. Field and population are coded for each trial. The mapping was done by one coder.
 
 ### Stage 2: computational reproduction
 
@@ -672,9 +671,7 @@ it through the final pipeline changed neither the median size of the effects nor
 range by much. It changed their sign. These were coding errors, not choices between
 defensible alternatives. They belong to the reproducer, not to the trials. Brodeur and colleagues let reproducers choose their
 robustness checks and counted the results. The many-analysts studies show what such
-freedom does to conclusions \cite{Silberzahn_2018,Breznau_2022}. Fixed rules, written before
-the mapping and applied to every trial, together with a second coder who works blind, are
-the remedy. The error rate of the first pass belongs in the report.
+freedom does to conclusions \cite{Silberzahn_2018,Breznau_2022}. Fixed rules, written before the mapping and applied to every trial, are the remedy that was applied. The error rate of the first pass belongs in the report.
 
 ### Limitations
 
@@ -700,8 +697,7 @@ supplementary file, which Jabouille and colleagues count as directly available, 
 not captured. A second route through Zenodo and Dryad found 127 study-like deposits
 that were not matched to articles.
 
-The audit was not preregistered, the mapping rules were fixed after the published
-analyses had been read, and one coder has mapped the trials to date. The
+The audit was not preregistered, the mapping rules were fixed after the published analyses had been read, and one coder mapped the trials. The
 estimand-preserving grid keeps a node whose options differ in precision. In most
 trials it was the only node that could vary. The strict grid shows what remains without
 it. The model family was inert: in the cluster-randomised FREE trial, random intercepts
