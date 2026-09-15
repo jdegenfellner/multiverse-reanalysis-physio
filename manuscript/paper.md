@@ -241,9 +241,9 @@ phosphatidic acid trial [Escalante_2016] the value first extracted was an F stat
 reclassified as having no point estimate.
 
 For each of the 12 trials with a point estimate I then fitted the published analysis as
-the paper describes it, in a separate script outside the multiverse grid. Where the paper
-reports an analysis of covariance, that was fitted. For the cluster-randomised FREE trial [Darlow_2019]
-this was a linear mixed model with random intercept and slope for practitioner and the
+the paper describes it, in a separate script outside the multiverse grid. Six trials required more than a
+single linear model or an assumption the paper leaves open. For the cluster-randomised
+FREE trial [Darlow_2019] the published analysis was a linear mixed model with random intercept and slope for practitioner and the
 prespecified covariates present in the deposit. For the balance feedback trial [Suarez_2026] it was a
 mixed model over all four measurement occasions on the logarithmic scale, with the
 authors' deposited code. TERECO [Li_2022] was analysed with a constrained longitudinal analysis.
