@@ -179,10 +179,7 @@ repository link, were not captured by this route.
 For every retained study I queried the application programming interfaces of OSF,
 Zenodo, Dryad and figshare, listed the deposit and classified files by extension. A
 deposit counted as reachable when a file list was returned and as containing data when
-at least one tabular file (csv, xlsx, sav, rds or similar) was present. Two properties of
-these interfaces produce silent empty results and are documented in the code. Zenodo
-limits unauthenticated requests to 25 records per page and 30 requests per minute.
-OSF requires percent-encoded pagination parameters and returns folders before files.
+at least one tabular file (csv, xlsx, sav, rds or similar) was present.
 The deposit probe left 84 reachable deposits, 74 with a tabular file, 48 of them
 randomised trials. These 48 were downloaded and assessed by hand.
 
