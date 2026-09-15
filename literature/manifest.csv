@@ -63,7 +63,7 @@ nr,key,doi,file,status,source
 61,Hardwicke_2021,10.1098/rsos.201494,style_models/Hardwicke_2021_RSOS_analytic-reproducibility-PsychSci.pdf,ok,literature folder
 62,Naudet_2018,10.1136/bmj.k400,style_models/Naudet_2018_BMJ_data-sharing-reanalysis-RCTs.pdf,ok,literature folder
 63,Nolte_2026_preprint,10.31222/osf.io/et5fw_v1,Nolte_2026_preprint_Data-code-availability-sports-science.pdf,ok,literature folder
-64,Nolte_2026_reg,10.17605/OSF.IO/VCWP8,,missing,"OSF registration page, PDF export pending"
+64,Nolte_2026_reg,10.17605/OSF.IO/VCWP8,Nolte_2026_reg_OSF-registration-vcwp8.pdf,ok,"OSF API v2, typeset with pandoc 2026-09-15"
 T01,Suarez_2026,10.3390/geriatrics11010006,trials/T01_Suarez_2026_Balance-feedback.pdf,ok,manual download (PMC12821712)
 T02,Kiouloukiotis_2026,10.1142/s1013702526500058,,missing,NOT YET (PMC13092435)
 T03,Lytras_2026,10.3390/medicina62020249,,missing,NOT YET (PMC12942207)
