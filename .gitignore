@@ -6,7 +6,7 @@ studies/*/paper.pdf
 studies/*/paper.txt
 studies/*/paper_fulltext.xml
 # Literatur-PDFs (urheberrechtlich geschuetzt); manifest.csv und references.bib bleiben
-literature/*.pdf
+literature/**/*.pdf
 literature/style_models/*.pdf
 # LaTeX-Buildartefakte
 manuscript/latex/*.aux

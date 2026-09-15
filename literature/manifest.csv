@@ -4,7 +4,7 @@ nr,key,doi,file,status,source
 11,Elghzali_2025,10.1186/s12874-025-02587-1,11_Elghzali_2025_Data-sharing-rehab-journals.pdf,ok,Europe PMC PMC12065141
 12,Murphy_2025,10.1007/s40279-025-02201-w,12_Murphy_2025_Replicability-sports-science.pdf,ok,Europe PMC PMC12513899
 13,Dhanani_2022,10.1007/s11606-022-07799-5,13_Dhanani_2022_Reproducing-statistics-RCTs.pdf,ok,Europe PMC PMC9708989
-14,Ankel-Peters_2025,10.1093/qopen/qoaf004,14_Ankel-Peters_2025_Robustness-reproductions-protocol.pdf,ok,OUP Q Open (gold OA; Browser wegen Cloudflare)
+14,Ankel_Peters_2025,10.1093/qopen/qoaf004,14_Ankel-Peters_2025_Robustness-reproductions-protocol.pdf,ok,OUP Q Open (gold OA; Browser wegen Cloudflare)
 15,Nepomuceno_2026,10.64898/2026.07.15.738584,15_Nepomuceno_2026_Multiverse-uptake-613-studies.pdf,ok,bioRxiv/openRxiv
 16,Stodden_2018,10.1073/pnas.1708290115,16_Stodden_2018_Journal-policy-reproducibility.pdf,ok,Europe PMC PMC5856507
 17,Siebert_2022,10.1186/s12916-022-02377-2,17_Siebert_2022_EMA-data-sharing-reanalysis.pdf,ok,Europe PMC PMC9119701
@@ -14,39 +14,69 @@ nr,key,doi,file,status,source
 21,Claesen_2023,10.1371/journal.pone.0284243,21_Claesen_2023_Data-sharing-replication-PLOS.pdf,ok,Europe PMC PMC10101414
 22,Nosek_2018,10.1073/pnas.1708274114,22_Nosek_2018_Preregistration-revolution.pdf,ok,Europe PMC PMC5856500
 23,Simonsohn_2020,10.1038/s41562-020-0912-z,23_Simonsohn_2020_Specification-curve-analysis.pdf,ok,"ZHAW-Zugang, manuell"
-24,Bartos_2025,10.48550/arXiv.2511.17064,24_Bartos_2025_Single-dataset-meta-analysis-specifications.pdf,ok,arXiv
+24,Bartos_2025_arXiv,10.48550/arXiv.2511.17064,24_Bartos_2025_Single-dataset-meta-analysis-specifications.pdf,ok,arXiv
 25,Girardi_2024,10.1007/s11336-024-09973-6,25_Girardi_2024_PIMA-post-selection-multiverse.pdf,ok,Repository TU Eindhoven (published version via OpenAlex)
 26,Hoffmann_2021,10.1098/rsos.201925,26_Hoffmann_2021_Multiplicity-analysis-strategies.pdf,ok,Europe PMC PMC8059606
 27,Patel_2015,10.1016/j.jclinepi.2015.05.029,27_Patel_2015_Vibration-of-effects.pdf,ok,PMC4555355 author manuscript (Browser)
-28,Klau_2021,10.1093/ije/dyaa164,28_Klau_2021_Vibration-of-effects-observational.pdf,ok,Europe PMC PMC7938511
-29,Young_2017,10.1177/0049124115610347,29_Young-Holsteen_2017_Model-uncertainty-robustness.pdf,ok,"ZHAW-Zugang, manuell"
+28,Klau_2020,10.1093/ije/dyaa164,28_Klau_2021_Vibration-of-effects-observational.pdf,ok,Europe PMC PMC7938511
+29,Young_2016,10.1177/0049124115610347,29_Young-Holsteen_2017_Model-uncertainty-robustness.pdf,ok,"ZHAW-Zugang, manuell"
 30,Silberzahn_2018,10.1177/2515245917747646,30_Silberzahn_2018_Many-analysts-one-dataset.pdf,ok,Repository UvA-DARE (via OpenAlex)
-31,Botvinik-Nezer_2020,10.1038/s41586-020-2314-9,31_Botvinik-Nezer_2020_NARPS.pdf,ok,Repository Univ. Greenwich (accepted manuscript via OpenAlex)
+31,Botvinik_Nezer_2020,10.1038/s41586-020-2314-9,31_Botvinik-Nezer_2020_NARPS.pdf,ok,Repository Univ. Greenwich (accepted manuscript via OpenAlex)
 32,Breznau_2022,10.1073/pnas.2203150119,32_Breznau_2022_Many-researchers-same-data.pdf,ok,Europe PMC PMC9636921
 33,Gould_2025,10.1186/s12915-024-02101-x,33_Gould_2025_Same-data-different-analysts.pdf,ok,Europe PMC PMC11804095
-34,Gelman-Loken_2014,10.1511/2014.111.460,34_Gelman-Loken_2014_Statistical-crisis-in-science.pdf,ok,stat.columbia.edu (Autorenkopie Am Sci 2014)
-34a,Gelman-Loken_2013,,34a_Gelman-Loken_2013_Garden-of-forking-paths.pdf,ok,stat.columbia.edu (unpubliziertes Manuskript)
-35,vandenAkker_2021,10.15626/mp.2020.2625,35_vandenAkker_2021_Preregistration-secondary-data.pdf,ok,Meta-Psychology (citation_pdf_url)
-36,Rafi-Greenland_2020,10.1186/s12874-020-01105-9,36_Rafi-Greenland_2020_S-values.pdf,ok,Europe PMC PMC7528258
+34,Gelman_2014,10.1511/2014.111.460,34_Gelman-Loken_2014_Statistical-crisis-in-science.pdf,ok,stat.columbia.edu (Autorenkopie Am Sci 2014)
+34a,Gelman_Loken_2013,,34a_Gelman-Loken_2013_Garden-of-forking-paths.pdf,ok,stat.columbia.edu (unpubliziertes Manuskript)
+35,Van_den_Akker_2021,10.15626/mp.2020.2625,35_vandenAkker_2021_Preregistration-secondary-data.pdf,ok,Meta-Psychology (citation_pdf_url)
+36,Rafi_2020,10.1186/s12874-020-01105-9,36_Rafi-Greenland_2020_S-values.pdf,ok,Europe PMC PMC7528258
 37,Greenland_2016,10.1007/s10654-016-0149-3,37_Greenland_2016_P-values-CIs-power.pdf,ok,Europe PMC PMC4877414
-38,Wasserstein-Lazar_2016,10.1080/00031305.2016.1154108,38_Wasserstein-Lazar_2016_ASA-statement-p-values.pdf,ok,Taylor & Francis (free access; Browser wegen Cloudflare)
-39,Vickers-Altman_2001,10.1136/bmj.323.7321.1123,39_Vickers-Altman_2001_Baseline-follow-up-ANCOVA.pdf,ok,Europe PMC PMC1121605
+38,Wasserstein_2016,10.1080/00031305.2016.1154108,38_Wasserstein-Lazar_2016_ASA-statement-p-values.pdf,ok,Taylor & Francis (free access; Browser wegen Cloudflare)
+39,Vickers_2001,10.1136/bmj.323.7321.1123,39_Vickers-Altman_2001_Baseline-follow-up-ANCOVA.pdf,ok,Europe PMC PMC1121605
 40,Senn_2006,10.1002/sim.2682,40_Senn_2006_Change-from-baseline-ANCOVA-revisited.pdf,ok,"ZHAW-Zugang, manuell"
 41,Twisk_2018,10.1016/j.conctc.2018.03.008,41_Twisk_2018_Treatment-effect-estimation-RCT.pdf,ok,Europe PMC PMC5898524
 42,Kahan_2014,10.1186/1745-6215-15-139,42_Kahan_2014_Covariate-adjustment-risks-rewards.pdf,ok,Europe PMC PMC4022337
-43,Kahan-Morris_2012,10.1136/bmj.e5840,43_Kahan-Morris_2012_Stratified-randomisation.pdf,ok,Europe PMC PMC3444136
+43,Kahan_2012,10.1136/bmj.e5840,43_Kahan-Morris_2012_Stratified-randomisation.pdf,ok,Europe PMC PMC3444136
 44,Kahan_2024,10.1136/bmj-2023-076316,44_Kahan_2024_Estimands-framework-primer-BMJ.pdf,ok,Repository UCL Discovery (via OpenAlex); DOI ist der Estimands-Primer (BMJ 2024)
 45,White_2011,10.1002/sim.4067,45_White_2011_MICE-issues-guidance.pdf,ok,"ZHAW-Zugang, manuell"
 46,Vickers_2005,10.1186/1471-2288-5-35,46_Vickers_2005_Parametric-vs-nonparametric.pdf,ok,Europe PMC PMC1310536
 47,Carlisle_2017,10.1111/anae.13938,47_Carlisle_2017_Data-fabrication-5087-RCTs.pdf,ok,Wiley (free access; Browser wegen Cloudflare)
-48,Carlisle_2021,10.1111/anae.15263,48_Carlisle_2021_Zombie-RCTs.pdf,ok,Wiley (free access; Browser wegen Cloudflare)
+48,Carlisle_2020,10.1111/anae.15263,48_Carlisle_2021_Zombie-RCTs.pdf,ok,Wiley (free access; Browser wegen Cloudflare)
 49,Bolland_2019,10.1016/j.jclinepi.2019.03.001,49_Bolland_2019_Rounding-baseline-P-values.pdf,ok,Repository AURA Aberdeen (accepted manuscript)
-50,Brown-Heathers_2017,10.1177/1948550616673876,50_Brown-Heathers_2016_GRIM-test-preprint.pdf,ok,PeerJ Preprints 2064 (Sage-Version restricted)
-51,Wilkinson_2025_JCE,10.1016/j.jclinepi.2025.111824,51_Wilkinson_2025_Trustworthiness-checks-JCE.pdf,ok,medRxiv Preprint v1 (10.1101/2024.11.25.24316905); Elsevier-OA-PDF technisch nicht ladbar
-52,Wilkinson_2025_INSPECT-SR,10.1101/2025.09.03.25334905,52_Wilkinson_2025_INSPECT-SR-tool.pdf,ok,medRxiv (keine Nat-Med-Version in Crossref/Europe PMC gefunden)
-53,Heal_2026_INSPECT-IPD,10.64898/2026.02.06.26345217,53_Heal_2026_INSPECT-IPD-protocol.pdf,ok,medRxiv/openRxiv
+50,Brown_2016,10.1177/1948550616673876,50_Brown-Heathers_2016_GRIM-test-preprint.pdf,ok,PeerJ Preprints 2064 (Sage-Version restricted)
+51,Wilkinson_2025,10.1016/j.jclinepi.2025.111824,51_Wilkinson_2025_Trustworthiness-checks-JCE.pdf,ok,medRxiv Preprint v1 (10.1101/2024.11.25.24316905); Elsevier-OA-PDF technisch nicht ladbar
+52,Wilkinson_2025_INSPECT_SR_tool,10.1101/2025.09.03.25334905,52_Wilkinson_2025_INSPECT-SR-tool.pdf,ok,medRxiv (keine Nat-Med-Version in Crossref/Europe PMC gefunden)
+53,Heal_2026,10.64898/2026.02.06.26345217,53_Heal_2026_INSPECT-IPD-protocol.pdf,ok,medRxiv/openRxiv
 54,ICH_2019_E9R1,,54_ICH_2019_E9R1-Estimands-addendum.pdf,ok,database.ich.org
 55,Senn_1994,10.1002/sim.4780131703,55_Senn_1994_Baseline-balance-testing.pdf,ok,"ZHAW-Zugang, manuell"
 56,Van_Breukelen_2006,10.1016/j.jclinepi.2006.02.007,56_VanBreukelen_2006_ANCOVA-vs-change-from-baseline.pdf,ok,"ZHAW-Zugang, manuell"
-57,Barnett_2005,10.1093/ije/dyh299,57_Barnett_2005_Regression-to-the-mean.pdf,ok,OUP (bronze OA; Browser wegen Cloudflare)
+57,Barnett_2004,10.1093/ije/dyh299,57_Barnett_2005_Regression-to-the-mean.pdf,ok,OUP (bronze OA; Browser wegen Cloudflare)
 58,Schulz_2010,10.1136/bmj.c332,58_Schulz_2010_CONSORT-2010-statement.pdf,ok,"BMJ (open access; ZHAW-Zugang, manuell für PDF)"
+00,Wasserstein_2019,10.1080/00031305.2019.1583913,00_Wasserstein-Schirm-Lazar_2019_Beyond-p005.pdf,ok,literature folder
+01,Veltri_2025,10.1080/00273171.2025.2575399,01_Veltri_2026_Preprocessing-dominates-RCT-multiverse.pdf,ok,literature folder
+02,Crenshaw_2026,10.1525/collabra.155619,02_Crenshaw_2026_Multiverse-Clinical-Trials.pdf,ok,literature folder
+03,Short_2025,10.1098/rsos.250800,03_Short_2025_SMART-Tool.pdf,ok,literature folder
+04,Mandl_2024,10.1186/s12874-024-02279-2,04_Mandl_2024_minP-Multiverse-Inference.pdf,ok,literature folder
+06,Del_Giudice_2021,10.1177/2515245920954925,06_DelGiudice-Gangestad_2021_Travelers-Guide.pdf,ok,literature folder
+07,Short_2026,10.1177/25152459261434881,07_Short_2026_Multicurious-published.pdf,ok,literature folder
+08,Steegen_2016,10.1177/1745691616658637,08_Steegen-Tuerlinckx-Gelman-Vanpaemel_2016_Original.pdf,ok,literature folder
+59,Hopewell_2025,10.1136/bmj-2024-081123,59_Hopewell_2025_CONSORT-2025-statement.pdf,ok,literature folder
+60,Hardwicke_2018,10.1098/rsos.180448,style_models/Hardwicke_2018_RSOS_analytic-reproducibility-Cognition.pdf,ok,literature folder
+61,Hardwicke_2021,10.1098/rsos.201494,style_models/Hardwicke_2021_RSOS_analytic-reproducibility-PsychSci.pdf,ok,literature folder
+62,Naudet_2018,10.1136/bmj.k400,style_models/Naudet_2018_BMJ_data-sharing-reanalysis-RCTs.pdf,ok,literature folder
+63,Nolte_2026_preprint,10.31222/osf.io/et5fw_v1,Nolte_2026_preprint_Data-code-availability-sports-science.pdf,ok,literature folder
+64,Nolte_2026_reg,10.17605/OSF.IO/VCWP8,,missing,"OSF registration page, PDF export pending"
+T01,Suarez_2026,10.3390/geriatrics11010006,,missing,NOT YET (PMC12821712)
+T02,Kiouloukiotis_2026,10.1142/s1013702526500058,,missing,NOT YET (PMC13092435)
+T03,Lytras_2026,10.3390/medicina62020249,,missing,NOT YET (PMC12942207)
+T04,Hobein_2026,10.1002/ejsc.70160,,missing,NOT YET (PMC13140343)
+T05,Li_2022,10.1136/thoraxjnl-2021-217382,trials/T05_Li_2022_TERECO.pdf,ok,https://thorax.bmj.com/content/thoraxjnl/77/7/697.full.pdf (PMC8318721)
+T06,Sharma_2016,10.1186/s12891-016-1081-0,trials/T06_Sharma_2016_Frozen-shoulder-SPADI.pdf,ok,https://link.springer.com/content/pdf/10.1186/s12891-016-1081-0.pdf (PMC4880881)
+T07,Rashad_2026,10.1186/s12916-026-04697-z,trials/T07_Rashad_2026_tSCS.pdf,ok,https://link.springer.com/content/pdf/10.1186/s12916-026-04697-z.pdf (PMC13085461)
+T08,Esfahani_2026,10.1371/journal.pone.0345947,trials/T08_Esfahani_2026_tDCS.pdf,ok,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345947&type=printable (PMC13257960)
+T09,Garnaes_2019,10.1136/bmjopen-2018-028252,trials/T09_Garnaes_2019_ETIP.pdf,ok,https://bmjopen.bmj.com/content/bmjopen/9/11/e028252.full.pdf (PMC6886967)
+T10,Escalante_2016,10.1186/s12970-016-0135-x,trials/T10_Escalante_2016_Phosphatidic-acid.pdf,ok,https://link.springer.com/content/pdf/10.1186/s12970-016-0135-x.pdf (PMC4891923)
+T11,Santiago_2024,10.1038/s41598-024-64046-z,trials/T11_Santiago_2024_Facial-palsy.pdf,ok,https://www.nature.com/articles/s41598-024-64046-z.pdf (PMC11164989)
+T12,Coleman_2024,10.7717/peerj.16777,,missing,NOT YET (PMC10809978)
+T13,Yu_2025,10.3390/nu17061022,,missing,NOT YET (PMC11945196)
+T14,Desai_2025,10.3390/nu17061081,,missing,NOT YET (PMC11944689)
+T15,Darlow_2019,10.1371/journal.pmed.1002897,trials/T15_Darlow_2019_FREE.pdf,ok,https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002897&type=printable (PMC6733445)
+T16,Navas_2021,10.3390/jcm10112432,trials/T16_Navas_2021_Water-exercise-Mallorca.pdf,ok,https://docusalut.com/bitstream/20.500.13003/19558/1/000660238400001.pdf (PMC8198819)

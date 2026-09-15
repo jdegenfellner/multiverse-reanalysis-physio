@@ -179,8 +179,8 @@ headline estimate. Field and population are coded for each trial. The mapping wa
 
 ### Stage 2: computational reproduction
 
-From each included paper I extracted the published primary estimate, its interval and
-p-value, and the specification of the published analysis (baseline handling, covariate
+From each included paper I extracted the published primary estimate, its 95% confidence
+interval (a credible interval for the one Bayesian analysis) and its p-value, and the specification of the published analysis (baseline handling, covariate
 set, analysis population, missing-data strategy, model family, standard-error method,
 transformation), each with a verbatim quotation. Where a paper reported only a test
 statistic or a p-value, the trial was classed as having no point estimate. Two documented

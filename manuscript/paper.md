@@ -228,28 +228,28 @@ headline estimate. Field and population are coded for each trial. The mapping wa
 
 ### 2.4 Stage 2: computational reproduction
 
-From each included paper I extracted the published primary estimate, its interval and
-p-value, and the specification of the published analysis (baseline handling, covariate
+From each included paper I extracted the published primary estimate, its 95% confidence
+interval (a credible interval for the one Bayesian analysis) and its p-value, and the specification of the published analysis (baseline handling, covariate
 set, analysis population, missing-data strategy, model family, standard-error method,
 transformation), each with a verbatim quotation. Where a paper reported only a test
-statistic or a p-value, the trial was classed as having no point estimate. Two documented
-adjustments were made to the extracted values. For the time-restricted eating trial the
+statistic or a p-value, the trial was classified as having no point estimate. Two documented
+adjustments were made to the extracted values. For the time-restricted eating trial [Yu_2025] the
 published primary estimate is the time-by-group interaction of a mixed model, reported as
 control minus intervention. I use it with the sign of my convention. For the
-phosphatidic acid trial the value first extracted was an F statistic. The trial was
-reclassed as having no point estimate.
+phosphatidic acid trial [Escalante_2016] the value first extracted was an F statistic. The trial was
+reclassified as having no point estimate.
 
 For each of the 12 trials with a point estimate I then fitted the published analysis as
 the paper describes it, in a separate script outside the multiverse grid. Where the paper
-reports an analysis of covariance, that was fitted. For the cluster-randomised FREE trial
+reports an analysis of covariance, that was fitted. For the cluster-randomised FREE trial [Darlow_2019]
 this was a linear mixed model with random intercept and slope for practitioner and the
-prespecified covariates present in the deposit. For the balance feedback trial it was a
+prespecified covariates present in the deposit. For the balance feedback trial [Suarez_2026] it was a
 mixed model over all four measurement occasions on the logarithmic scale, with the
-authors' deposited code. TERECO was analysed with a constrained longitudinal analysis.
-The deload trial was fitted with a Bayesian multilevel model with default priors, because
-the paper states none. The water exercise trial was analysed with multiple imputation
+authors' deposited code. TERECO [Li_2022] was analysed with a constrained longitudinal analysis.
+The deload trial [Coleman_2024] was fitted with a Bayesian multilevel model with default priors, because
+the paper states none. The water exercise trial [Navas_2021] was analysed with multiple imputation
 with 20 imputations, because the paper does not state the number. For the frozen
-shoulder trial it was a repeated-measures analysis of covariance over the two short-term
+shoulder trial [Sharma_2016] it was a repeated-measures analysis of covariance over the two short-term
 follow-ups, approximated as a mixed model. Where a detail was not
 stated, the script records the assumption. Agreement was classified by the rule fixed
 before any computation: full when the recomputed estimate had the same sign and differed
@@ -430,13 +430,13 @@ individual and readable.
 Sixteen trials entered stages 2 and 3, 33% of the 48 assessed (Wilson 95% interval 22 to
 47%) and 11% of the 152 with a link (7 to 16%). Twelve are primary reports. Four analyse
 an outcome that the trial registration lists as secondary (an exploratory balance
-analysis, a psychological outcome of a pregnancy exercise trial, postpartum depression
-in a water exercise trial, and voluntary muscle activation in a neuromodulation trial
+analysis [Suarez_2026], a psychological outcome of a pregnancy exercise trial [Garnaes_2019], postpartum depression
+in a water exercise trial [Navas_2021], and voluntary muscle activation in a neuromodulation trial [Esfahani_2026]
 whose registered primary outcome, muscle strength, is not in the deposit). Deposits were hosted on OSF (7),
 Zenodo (6) and Dryad (3). Two contained analysis code alongside the data. Six trials are
-physiotherapy or rehabilitation trials in patients or survivors, one a neuromodulation
-trial in patients, one a corticosteroid injection trial for frozen shoulder, six
-training or nutrition trials in healthy adults, and two exercise trials in pregnancy.
+physiotherapy or rehabilitation trials in patients or survivors [Kiouloukiotis_2026; Lytras_2026; Li_2022; Rashad_2026; Santiago_2024; Darlow_2019], one a neuromodulation
+trial in patients [Esfahani_2026], one a corticosteroid injection trial for frozen shoulder [Sharma_2016], six
+training or nutrition trials in healthy adults [Suarez_2026; Hobein_2026; Escalante_2016; Coleman_2024; Yu_2025; Desai_2025], and two exercise trials in pregnancy [Garnaes_2019; Navas_2021].
 Eight interventions were delivered by physiotherapists. The trials randomised 18 to 404
 participants. The number analysable for the primary contrast in the estimand-preserving
 multiverse ranged from 16 to 276. The fitted published models used 20 to 373
@@ -449,7 +449,7 @@ published analysis as described recovered it fully in 11 (92%, Wilson interval 6
 99%) and with a major discrepancy in 1 (Table 3). The absolute difference between
 published and recomputed estimate had a median of 0.001 standard deviations and a
 maximum of 0.014. Ten estimates agree with the published value to the precision at which it was
-printed. The one major discrepancy is the deload trial (18%, 0.014 standard
+printed. The one major discrepancy is the deload trial [Coleman_2024] (18%, 0.014 standard
 deviations), whose published Bayesian multilevel model states neither priors nor seed.
 My fit with default priors gives −0.51 against −0.63, with credible intervals that
 overlap almost entirely. In all 12 trials the recomputed 95% interval contains the
@@ -457,20 +457,20 @@ published estimate. In the 8 trials that report a p-value and for which a
 frequentist p-value exists, the recomputed value falls on the same side of 0.05. One paper did not report an interval for the primary estimate and three did not report a
 p-value. The test statistics of the four papers without a point estimate are treated
 below. Four of the 12 reconstructions rest on an assumption the paper leaves open: the
-number of imputations in the water exercise trial, the priors of the deload model, the
-estimation method in TERECO, where maximum likelihood, the software default, reproduces
+number of imputations in the water exercise trial [Navas_2021], the priors of the deload model, the
+estimation method in TERECO [Li_2022], where maximum likelihood, the software default, reproduces
 the published interval to the decimal, and the implementation of the repeated-measures
-analysis of covariance in the frozen shoulder trial, where the between-subject effect on
-the mean of the two follow-ups reproduces the published estimate to 0.1%. The FREE trial
+analysis of covariance in the frozen shoulder trial [Sharma_2016], where the between-subject effect on
+the mean of the two follow-ups reproduces the published estimate to 0.1%. The FREE trial [Darlow_2019]
 reproduces to 1.8% once time is entered as a factor, as the paper describes.
 
 For the four papers that report no point estimate, the reported test statistic was
 recomputed as described. The three-arm repeated-measures analysis of variance of the
-Mulligan trial gives F(2,40) = 0.983, p = 0.383, as published. The mixed model of the
-cluster-set trial gives the published interaction p of 0.352 and the published main-
+Mulligan trial [Kiouloukiotis_2026] gives F(2,40) = 0.983, p = 0.383, as published. The mixed model of the
+cluster-set trial [Hobein_2026] gives the published interaction p of 0.352 and the published main-
 effect F statistics of 80.67 and 95.13. The exact Mann-Whitney test of the facial palsy
-trial gives p = 0.0020 and the published medians and interquartile ranges of the change
-scores, once quartiles are computed as SPSS does. In the phosphatidic acid trial the
+trial [Santiago_2024] gives p = 0.0020 and the published medians and interquartile ranges of the change
+scores, once quartiles are computed as SPSS does. In the phosphatidic acid trial [Escalante_2016] the
 published interaction p of 0.041 reproduces, but the F statistic printed with it,
 F(1,16) = 33.30, does not: the interaction F is 4.95. No term in the analysis gives
 33.30. The abstract reports the same statistic as a main effect with p < 0.001. The
@@ -487,7 +487,7 @@ absolute difference from the multiverse median has a median of 0.016 standard de
 (bootstrap interval 0.003 to 0.056). The published specification could be represented
 completely in the grid in 7 of 12 trials. In 3 trials several grid specifications matched
 it equally well, with a range of 0.23 standard deviations between the candidates in the
-Lytras trial, whose paper does not state how the baseline entered the analysis.
+Lytras trial [Lytras_2026], whose paper does not state how the baseline entered the analysis.
 
 ### 3.3 Displacement of the published result over estimand-preserving choices
 
@@ -504,10 +504,10 @@ published estimate. The largest displacement per trial has a median of 0.15 stan
 deviations (interquartile range 0.08 to 0.28) and a maximum of 0.41. In 5 of the 11
 trials every specification stays within 0.1 standard deviations of the published
 result. In none does any specification reverse its sign. The three largest
-displacements, 0.41 in the deload trial, 0.39 in the spinal cord stimulation trial and
-0.34 in the time-restricted eating trial, are each the distance between the published
+displacements, 0.41 in the deload trial [Coleman_2024], 0.39 in the spinal cord stimulation trial [Rashad_2026] and
+0.34 in the time-restricted eating trial [Yu_2025], are each the distance between the published
 baseline handling and one alternative, in the three trials with the largest baseline
-imbalance between arms, 0.40 to 0.41 standard deviations. In the Lytras trial the
+imbalance between arms, 0.40 to 0.41 standard deviations. In the Lytras trial [Lytras_2026] the
 published follow-up analysis sits at the edge of its multiverse: the change-score and
 covariance-adjusted alternatives move the effect by 0.10 and 0.23 standard deviations in
 the same direction. Elsewhere the published estimate is central, with a median
@@ -527,7 +527,7 @@ over all 16 trials, it is −0.29.
 
 The strict grid, with baseline handling fixed to analysis of covariance, leaves 68
 specifications. Its range is zero in 12 of 16 trials and at most 0.04 in the other four
-(balance feedback 0.04, FREE 0.03, TERECO 0.02, cluster sets 0.01), the trials in which a
+(balance feedback [Suarez_2026] 0.04, FREE [Darlow_2019] 0.03, TERECO [Li_2022] 0.02, cluster sets [Hobein_2026] 0.01), the trials in which a
 covariate set or a cluster model could vary. Over choices that satisfy the strict
 equivalence criterion, there was almost nothing to vary in this corpus.
 
@@ -559,8 +559,8 @@ estimate, FREE and the balance feedback trial, whose published effects are 0.14 
 standard deviations. Of their specifications, 95% and 91% keep the published sign. The
 range of d has a median of 0.24 standard deviations (bootstrap interval 0.13 to 0.32,
 interquartile range 0.13 to 0.32) and a maximum of 0.52, in the spinal cord stimulation
-trial. The sign was stable in 13 of 16 trials (57 to 93%). The range includes zero in
-three, the ETIP pregnancy trial, FREE and the balance feedback trial. Over the 15 trials
+trial [Rashad_2026]. The sign was stable in 13 of 16 trials (57 to 93%). The range includes zero in
+three, the ETIP pregnancy trial [Garnaes_2019], FREE and the balance feedback trial. Over the 15 trials
 with a non-zero estimand-preserving range, the defensible range exceeded it by a median
 factor of 1.35 (bootstrap interval 1.12 to 1.52). Baseline handling remained the node
 with the largest share of the estimate variance in 11 of 16 trials and the logarithmic
@@ -569,7 +569,7 @@ largest share in none.
 
 The outlier arm, which adds the three pooled winsorising rules to the estimand-preserving
 grid, has a median range of 0.18 and a maximum of 1.08 standard deviations. The maximum
-is the transcranial stimulation trial, whose outcome is a percentage with a ceiling at
+is the transcranial stimulation trial [Esfahani_2026], whose outcome is a percentage with a ceiling at
 100 and half of whose participants score between 99 and 100: the rule of three median
 absolute deviations winsorises the whole control arm towards the median and reduces d
 from 1.4 to 0.4. No trial in the corpus applied such a rule. The arm is reported as
@@ -755,7 +755,7 @@ that were not matched to articles.
 The audit was not preregistered, the mapping rules were fixed after the published analyses had been read, and one coder mapped the trials. The
 estimand-preserving grid keeps a node whose options differ in precision. In most
 trials it was the only node that could vary. The strict grid shows what remains without
-it. The model family was inert: in the cluster-randomised FREE trial, random intercepts
+it. The model family was inert: in the cluster-randomised FREE trial [Darlow_2019], random intercepts
 for practitioner and practice were singular in every fit. The linear-model
 specifications, including permutation inference over individual allocations, do not
 respect the cluster design. The variance partition is additive and treats confounded node
