@@ -1,0 +1,11 @@
+TITEL: A 12-Week Exercise Program for Pregnant Women with Obesity to Improve Physical Activity Levels: An Open Randomised Preli
+DOI: 10.1371/journal.pone.0137742
+PMCID: PMC4573757
+JOURNAL: PloS one 2015
+DATA: 10.5061/dryad.87f03
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [FEHLER http=401] Dryad_data.xlsx (0.04 MB)

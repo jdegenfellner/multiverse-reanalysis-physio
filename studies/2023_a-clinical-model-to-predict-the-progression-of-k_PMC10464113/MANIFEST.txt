@@ -1,0 +1,10 @@
+TITEL: A clinical model to predict the progression of knee osteoarthritis: data from Dryad
+DOI: 10.1186/s13018-023-04118-4
+PMCID: PMC10464113
+JOURNAL: Journal of orthopaedic surgery and res 2023
+DATA: 10.5061/dryad.79cnp5htv
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 0

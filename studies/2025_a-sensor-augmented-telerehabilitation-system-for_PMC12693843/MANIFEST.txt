@@ -1,0 +1,12 @@
+TITEL: A Sensor-Augmented Telerehabilitation System for Knee Osteoarthritis: A Randomized Controlled Trial of Neuromuscular, Fu
+DOI: 10.3390/s25237113
+PMCID: PMC12693843
+JOURNAL: Sensors (Basel, Switzerland) 2025
+DATA: 10.5281/zenodo.12112951
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] dataset.zip (289.42 MB)
+  [cached] metadata.txt (0.00 MB)

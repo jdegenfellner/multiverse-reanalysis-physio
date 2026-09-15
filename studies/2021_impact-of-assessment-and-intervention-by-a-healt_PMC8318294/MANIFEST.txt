@@ -1,0 +1,12 @@
+TITEL: Impact of assessment and intervention by a health and social care professional team in the emergency department on the q
+DOI: 10.1371/journal.pmed.1003711
+PMCID: PMC8318294
+JOURNAL: PLoS medicine 2021
+DATA: osf.io/5wpjm
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] RCT353_Codebook21.01.2021.docx (0.04 MB)
+  [cached] RCT353FullDataset_Updated21.01.2021.xlsx (0.08 MB)

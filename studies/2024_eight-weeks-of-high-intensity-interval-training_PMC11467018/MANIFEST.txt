@@ -1,0 +1,12 @@
+TITEL: Eight weeks of high-intensity interval training versus stretching do not change the psychoneuroendocrine response to a s
+DOI: 10.1007/s00421-024-05471-w
+PMCID: PMC11467018
+JOURNAL: European journal of applied physiology 2024
+DATA: osf.io/eu4zt
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] Supplementary_Material_B.csv (0.07 MB)
+  [cached] Supplementary_Material_C.csv (0.02 MB)

@@ -1,0 +1,14 @@
+TITEL: Dependence of learning outcomes in flipped and lecture classrooms on review questions: A randomized controlled trial and
+DOI: 10.1371/journal.pone.0279296
+PMCID: PMC9762591
+JOURNAL: PloS one 2022
+DATA: osf.io/qw4x9
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  [cached] notes on data files.rtf (0.00 MB)
+  [cached] survey.csv (0.00 MB)
+  [cached] grades.csv (0.01 MB)
+  [cached] IOTA.csv (0.00 MB)

@@ -1,0 +1,35 @@
+TITEL: Pilot Randomized Controlled Trial of <i>Lymfit</i>: A Theory-Guided Exercise Intervention for Young Adults with Lymphoma
+DOI: 10.3390/healthcare12111101
+PMCID: PMC11171874
+JOURNAL: Healthcare (Basel, Switzerland) 2024
+DATA: osf.io/n5abk
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 25
+  [cached] FINAL_ANALYSIS.Rmd (0.03 MB)
+  [cached] all_raw_data_pilotRCT_lymfit.xlsx (0.02 MB)
+  [cached] LymFit study protocol.docx (0.70 MB)
+  [cached] Lymfit_ICF.docx (0.04 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PNSE_1_overall.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_SLEEP.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PNSE_3_AUT.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_PF.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PNSE_4_REL.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_2_EXT.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_FAT.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_SOCIAL.png (0.03 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_6_INTRI.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_DEP.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_5_INTE.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_3_INTRO.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_ANX.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_4_IDENT.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_COG.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PA.png (0.03 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_TOTAL.png (0.01 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PNSE_2_COM.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - PROPr_PAIN.png (0.02 MB)
+  [cached] ANCOVA T0 T1 GRAPHS - BREQ_1_AMO.png (0.02 MB)

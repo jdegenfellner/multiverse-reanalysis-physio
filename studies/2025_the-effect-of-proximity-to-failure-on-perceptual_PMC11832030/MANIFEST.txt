@@ -1,0 +1,24 @@
+TITEL: The Effect of Proximity-To-Failure on Perceptual Responses to Resistance Training
+DOI: 10.1002/ejsc.12266
+PMCID: PMC11832030
+JOURNAL: European journal of sport science 2025
+DATA: osf.io/34d92
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 14
+  [ok] RIR.mp4 (302.53 MB)
+  [ok] FAIL.mp4 (341.36 MB)
+  [cached] Sex Diff_Data Preparation_Final.qmd (0.02 MB)
+  [cached] Sex Diff_Data Analysis_Final.qmd (0.04 MB)
+  [cached] Refalo et al Data Preparation.qmd (0.02 MB)
+  [cached] Refalo et al Diagnostics.qmd (0.04 MB)
+  [cached] Refalo et al Data Analysis.qmd (0.04 MB)
+  [cached] vol_load_master.xlsx (0.01 MB)
+  [cached] rep_vol_master.xlsx (0.01 MB)
+  [cached] modified.longitudinal.models.xlsx (0.45 MB)
+  [cached] vl_master.xlsx (0.03 MB)
+  [cached] rf_vl_master.xlsx (0.03 MB)
+  [cached] mt_master_avg.xlsx (0.01 MB)
+  [cached] mt_diff_analysis_avg.xlsx (0.01 MB)

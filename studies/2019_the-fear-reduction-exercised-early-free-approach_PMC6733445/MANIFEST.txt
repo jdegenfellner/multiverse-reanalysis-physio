@@ -1,0 +1,19 @@
+TITEL: The Fear Reduction Exercised Early (FREE) approach to management of low back pain in general practice: A pragmatic clust
+DOI: 10.1371/journal.pmed.1002897
+PMCID: PMC6733445
+JOURNAL: PLoS medicine 2019
+DATA: 10.5061/dryad.4t375b2 | datadryad.org/review
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 9
+  [FEHLER http=401] FREE_GP_Outcome_Data_v1_0.csv (0.02 MB)
+  [FEHLER http=401] FREE_GP_Outcome_DataDictionary_v1_0.csv (0.00 MB)
+  [FEHLER http=401] FREE_Patient_Outcome_Data_v1_0.csv (0.23 MB)
+  [FEHLER http=401] FREE_Patient_Outcome_DataDictionary_v1_0.csv (0.00 MB)
+  [FEHLER http=401] FREE_Patient_PostApptAll_Data_v1_0.csv (0.04 MB)
+  [FEHLER http=401] FREE_Patient_PostApptAll_DataDictionary_v1_0.csv (0.00 MB)
+  [FEHLER http=401] README_for_FREE_GP_Outcome_Data_v1_0.txt (0.00 MB)
+  [FEHLER http=401] README_for_FREE_Patient_Outcome_Data_v1_0.txt (0.00 MB)
+  [FEHLER http=401] README_for_FREE_Patient_PostApptAll_Data_v1_0.txt (0.00 MB)

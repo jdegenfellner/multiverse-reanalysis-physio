@@ -1,0 +1,41 @@
+TITEL: Effects of anodal tDCS on resting state eeg power and motor function in acute stroke: a randomized controlled trial
+DOI: 10.1186/s12984-023-01300-x
+PMCID: PMC10765911
+JOURNAL: Journal of neuroengineering and rehabi 2024
+DATA: osf.io/5rmjc
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 31
+  [cached] 20.7z (30.91 MB)
+  [cached] 27.7z (32.98 MB)
+  [cached] 19.7z (30.32 MB)
+  [cached] 08.7z (37.05 MB)
+  [cached] 03.7z (39.90 MB)
+  [cached] 29.7z (30.64 MB)
+  [cached] 25.7z (38.02 MB)
+  [cached] 01.7z (41.45 MB)
+  [cached] 04.7z (46.66 MB)
+  [cached] 05.7z (35.47 MB)
+  [cached] 10.7z (32.09 MB)
+  [cached] 23.7z (35.09 MB)
+  [cached] 15.7z (35.58 MB)
+  [cached] 09.7z (32.94 MB)
+  [cached] 11.7z (36.84 MB)
+  [cached] 17.7z (32.49 MB)
+  [cached] 18.7z (32.50 MB)
+  [cached] Vimolratana et al-2023-characteristics.xlsx (0.01 MB)
+  [cached] 24.7z (32.13 MB)
+  [cached] 13.7z (32.57 MB)
+  [cached] 02.7z (37.26 MB)
+  [cached] 12.7z (39.14 MB)
+  [cached] 16.7z (41.43 MB)
+  [cached] 14.7z (33.31 MB)
+  [cached] 30.7z (28.88 MB)
+  [cached] 06.7z (32.99 MB)
+  [cached] 21.7z (32.94 MB)
+  [cached] 22.7z (33.07 MB)
+  [cached] 26.7z (34.81 MB)
+  [cached] 07.7z (33.90 MB)
+  [cached] 28.7z (31.81 MB)

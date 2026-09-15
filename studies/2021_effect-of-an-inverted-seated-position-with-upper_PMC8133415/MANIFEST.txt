@@ -1,0 +1,11 @@
+TITEL: Effect of an inverted seated position with upper arm blood flow restriction on measures of elbow flexors neuromuscular p
+DOI: 10.1371/journal.pone.0245311
+PMCID: PMC8133415
+JOURNAL: PloS one 2021
+DATA: osf.io/tzm4b
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Copy of Inversion - Data Aug 24 2020.xlsx (0.04 MB)

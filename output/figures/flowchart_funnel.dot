@@ -1,0 +1,60 @@
+digraph funnel {
+  graph [rankdir=TB, nodesep=0.35, ranksep=0.45, fontname="Helvetica", fontsize=11, bgcolor="white", pad=0.3];
+  node  [shape=box, style="rounded,filled", fillcolor="#F4F6F8", color="#5B6770", fontname="Helvetica", fontsize=11, margin="0.18,0.10"];
+  edge  [color="#5B6770", arrowsize=0.7, fontname="Helvetica", fontsize=9.5];
+
+  /* ---------------- Source A: literature side ---------------- */
+  subgraph cluster_A {
+    label="Source A: literature side (Europe PMC)"; labeljust=l; fontsize=12; color="#9AA5AE"; style="rounded"; bgcolor="#FBFCFD";
+    A1 [label="Europe PMC full-text search\nphysiotherapy / rehabilitation terms AND clinical design\nAND repository term AND open access\nn = 423 records screened"];
+    A2 [label="Repository link inside the data- or\ncode-availability statement\nn = 152  (91 RCTs, 61 non-randomised)"];
+    A3 [label="Deposit reachable, file listing retrieved via\nOSF / Zenodo / Dryad / figshare API\nn = 84  (54 RCTs)"];
+    A4 [label="At least one tabular data file in the deposit\nn = 74  (48 RCTs; 10 with analysis code)"];
+    A5 [label="Randomised trials downloaded and\nmanually assessed for eligibility\nn = 48", fillcolor="#E8EEF4"];
+    A6 [label="Included in reproduction and multiverse\nn = 16 trials (12 primary reports, 4 secondary reports)\nspecification counts: see output/duplicates.csv", fillcolor="#DCE8DC", color="#3F6B3F"];
+
+    A1 -> A2 [label="  271 excluded: no repository link in the availability\n  statement (42 data 'on request', tool citations,\n  links outside the statement)"];
+    A2 -> A3 [label="  68 excluded: deposit not retrievable by API\n  (truncated or dead URL, 8 private figshare share links)"];
+    A3 -> A4 [label="  10 excluded: no tabular file (code only, PDF, images)"];
+    A4 -> A5 [label="  26 non-randomised studies set aside\n  (reported as a separate excluded set)"];
+    A5 -> A6;
+  }
+
+  /* ---------------- Exclusions at manual assessment ---------------- */
+  X [shape=box, style="filled", fillcolor="#F8ECEC", color="#A65A5A", label=<
+    <TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0" CELLPADDING="2">
+      <TR><TD ALIGN="LEFT"><B>Excluded at manual assessment, n = 32</B></TD><TD></TD></TR>
+      <TR><TD ALIGN="LEFT"><I>Design not eligible for the grid</I></TD><TD ALIGN="RIGHT"><B>17</B></TD></TR>
+      <TR><TD ALIGN="LEFT">  crossover design</TD><TD ALIGN="RIGHT">5</TD></TR>
+      <TR><TD ALIGN="LEFT">  not a clinical study (education, vignette, reader study)</TD><TD ALIGN="RIGHT">4</TD></TR>
+      <TR><TD ALIGN="LEFT">  feasibility as primary endpoint</TD><TD ALIGN="RIGHT">3</TD></TR>
+      <TR><TD ALIGN="LEFT">  not randomised (cohort, prognostic model)</TD><TD ALIGN="RIGHT">2</TD></TR>
+      <TR><TD ALIGN="LEFT">  within-person design (limbs as units)</TD><TD ALIGN="RIGHT">2</TD></TR>
+      <TR><TD ALIGN="LEFT">  binary primary outcome (grid built for continuous)</TD><TD ALIGN="RIGHT">1</TD></TR>
+      <TR><TD ALIGN="LEFT"><I>Deposited data insufficient for the primary analysis</I></TD><TD ALIGN="RIGHT"><B>11</B></TD></TR>
+      <TR><TD ALIGN="LEFT">  allocation not identifiable in the data</TD><TD ALIGN="RIGHT">3</TD></TR>
+      <TR><TD ALIGN="LEFT">  primary outcome not identifiable</TD><TD ALIGN="RIGHT">2</TD></TR>
+      <TR><TD ALIGN="LEFT">  outcome only as raw signals (EEG, EMG, IMU)</TD><TD ALIGN="RIGHT">2</TD></TR>
+      <TR><TD ALIGN="LEFT">  primary timepoint not in deposit</TD><TD ALIGN="RIGHT">1</TD></TR>
+      <TR><TD ALIGN="LEFT">  summary table only, no individual data</TD><TD ALIGN="RIGHT">1</TD></TR>
+      <TR><TD ALIGN="LEFT">  deposit contains no data (README only)</TD><TD ALIGN="RIGHT">1</TD></TR>
+      <TR><TD ALIGN="LEFT">  file not machine-readable</TD><TD ALIGN="RIGHT">1</TD></TR>
+      <TR><TD ALIGN="LEFT"><I>No reproducible group-difference estimate</I></TD><TD ALIGN="RIGHT"><B>2</B></TD></TR>
+      <TR><TD ALIGN="LEFT">  network or mediation analysis without arm contrast</TD><TD ALIGN="RIGHT">2</TD></TR>
+      <TR><TD ALIGN="LEFT"><I>Duplicate</I></TD><TD ALIGN="RIGHT"><B>2</B></TD></TR>
+      <TR><TD ALIGN="LEFT">  secondary analysis of a dataset already included</TD><TD ALIGN="RIGHT">2</TD></TR>
+    </TABLE>>];
+  A5 -> X [style=dashed, arrowhead=none];
+
+  /* ---------------- Source B: repository side ---------------- */
+  subgraph cluster_B {
+    label="Source B: repository side (Zenodo, Dryad)"; labeljust=l; fontsize=12; color="#9AA5AE"; style="rounded"; bgcolor="#FBFCFD";
+    B1 [label="Direct search of Zenodo and Dryad\nfor clinically relevant deposits\nn = 500 deposits"];
+    B2 [label="Study-like deposits\n(individual data of a trial or clinical study)\nn = 127  (Zenodo 81, Dryad 46)"];
+    B3 [label="Not yet linked to an article and assessed\nn = 127  (3 carry an article DOI, none overlaps Source A)\nextension corpus, pending", fillcolor="#FFF6E0", color="#B08A2E"];
+    B1 -> B2 [label="  373 not study-like (instruments, simulations,\n  biomechanics, imaging)"];
+    B2 -> B3;
+  }
+
+  B3 -> A5 [style=dashed, label="  to be merged after article matching", constraint=false];
+}

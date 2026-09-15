@@ -1,0 +1,14 @@
+TITEL: Anatomy of a failure: a retrospective evaluation of a cognitive bias modification intervention to promote physical activ
+DOI: 10.1136/bmjopen-2025-101558
+PMCID: PMC13141020
+JOURNAL: BMJ open 2026
+DATA: 10.5281/zenodo.17292448
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  [cached] R_Scripts.zip (0.08 MB)
+  [cached] Inquisit_VAAST_IMPACT.zip (291.48 MB)
+  [cached] Questionnaires.zip (1.08 MB)
+  [cached] Data_and_Codebooks.zip (30.92 MB)

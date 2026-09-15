@@ -1,0 +1,11 @@
+TITEL: Predicting outcome in frozen shoulder (shoulder capsulitis) in presence of comorbidity as measured with subjective healt
+DOI: 10.1186/s12891-017-1740-9
+PMCID: PMC5581414
+JOURNAL: BMC musculoskeletal disorders 2017
+DATA: osf.io/a4ba9
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Predicting outcome in Frozen shoulder RCTgr dataset 140317.sav (0.05 MB)

@@ -1,0 +1,11 @@
+TITEL: A comparison of psychological characteristics in people with knee osteoarthritis from Japan and Australia: A cross-secti
+DOI: 10.1371/journal.pone.0267877
+PMCID: PMC9070885
+JOURNAL: PloS one 2022
+DATA: osf.io/8fzs7
+CODE: 
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 1
+  [cached] Dataset.xlsx (0.03 MB)

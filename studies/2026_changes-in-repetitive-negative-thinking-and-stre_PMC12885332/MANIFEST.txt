@@ -1,0 +1,31 @@
+TITEL: Changes in repetitive negative thinking and stress perception mediate treatment effects of a transdiagnostic exercise in
+DOI: 10.1017/s0033291725103085
+PMCID: PMC12885332
+JOURNAL: Psychological medicine 2026
+DATA: osf.io/5rcuz
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 21
+  [cached] Impuls_PAHCOchanges_V2_open.csv (0.11 MB)
+  [cached] PAHCO_OSF.r (0.02 MB)
+  [cached] Main_analysis_v3_revised_OSF.zip (0.17 MB)
+  [cached] data_ImPuls_mediators.csv (3.18 MB)
+  [cached] 1_analysis.R (0.03 MB)
+  [cached] 1_imputation.R (0.01 MB)
+  [cached] 2_analysis.R (0.01 MB)
+  [cached] script_demographics_250125.Rmd (0.06 MB)
+  [cached] df_teique_not_imputed_clinical.csv (2.16 MB)
+  [cached] Main_Analysis_250125.Rmd (0.13 MB)
+  [cached] df_imp_nonclinical_controls_250125.rds (0.04 MB)
+  [cached] df_teique_not_imputed_nonclinical.csv (0.51 MB)
+  [cached] df_imp_clinical_250125.rds (0.07 MB)
+  [cached] 2_basline characteristics.R (0.01 MB)
+  [cached] 4_main analysis.R (0.02 MB)
+  [cached] 5_sensitivity analysis.R (0.04 MB)
+  [cached] 1_imputation.R (0.01 MB)
+  [cached] ImPuls_predata_with_scores_18_11_24.csv (2.75 MB)
+  [cached] 3_checking assumption violation.R (0.01 MB)
+  [cached] df_200125.csv (0.83 MB)
+  [cached] analysis_final.Rmd (0.12 MB)

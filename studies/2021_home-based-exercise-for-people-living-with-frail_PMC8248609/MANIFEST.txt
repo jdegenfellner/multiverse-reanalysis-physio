@@ -1,0 +1,29 @@
+TITEL: Home-based exercise for people living with frailty and chronic kidney disease: A mixed-methods pilot randomised controll
+DOI: 10.1371/journal.pone.0251652
+PMCID: PMC8248609
+JOURNAL: PloS one 2021
+DATA: 10.5061/dryad.3ffbg79hp
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 19
+  [FEHLER http=401] 1_Interview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 12_Interview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 13_Interview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 14_Interview_Shared.docx (0.05 MB)
+  [FEHLER http=401] 16_Interview_Shared.docx (0.06 MB)
+  [FEHLER http=401] 17_Interview_Shared.docx (0.06 MB)
+  [FEHLER http=401] 18_Interview_Shared.docx (0.05 MB)
+  [FEHLER http=401] 20_Interview_Shared.docx (0.06 MB)
+  [FEHLER http=401] 21_Interview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 24_Interview_Shared.docx (0.08 MB)
+  [FEHLER http=401] 28_Interview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 4_Interview_Shared.docx (0.06 MB)
+  [FEHLER http=401] 6_Inteview_Shared.docx (0.04 MB)
+  [FEHLER http=401] 7_Interview_Shared.docx (0.07 MB)
+  [FEHLER http=401] 9_Interview_Shared.docx (0.06 MB)
+  [FEHLER http=429] Adherence_Data_Shared.xlsx (0.01 MB)
+  [FEHLER http=429] Readme_EXFRAIL.xlsx (0.04 MB)
+  [FEHLER http=429] Visit_1_Data_Shared.xlsx (0.04 MB)
+  [FEHLER http=429] Visit_2_Data_Shared.xlsx (0.03 MB)

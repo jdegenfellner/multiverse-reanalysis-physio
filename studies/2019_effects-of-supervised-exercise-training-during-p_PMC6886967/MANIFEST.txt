@@ -1,0 +1,10 @@
+TITEL: Effects of supervised exercise training during pregnancy on psychological well-being among overweight and obese women: s
+DOI: 10.1136/bmjopen-2018-028252
+PMCID: PMC6886967
+JOURNAL: BMJ open 2019
+DATA: 10.5061/dryad.pvmcvdng6
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 0

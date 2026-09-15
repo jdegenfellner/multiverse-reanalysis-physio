@@ -1,0 +1,11 @@
+TITEL: Effects of an aquatic protocol on electromyography activation and strength of lower limb muscles in blind women: A rando
+DOI: 10.1371/journal.pone.0322395
+PMCID: PMC12111718
+JOURNAL: PloS one 2025
+DATA: 10.5281/zenodo.14280848
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] spss1.xlsx (0.02 MB)

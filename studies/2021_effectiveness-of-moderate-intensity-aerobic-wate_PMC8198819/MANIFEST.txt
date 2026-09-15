@@ -1,0 +1,11 @@
+TITEL: Effectiveness of Moderate-Intensity Aerobic Water Exercise during Pregnancy on Quality of Life and Postpartum Depression
+DOI: 10.3390/jcm10112432
+PMCID: PMC8198819
+JOURNAL: Journal of clinical medicine 2021
+DATA: 10.5281/zenodo.3580637
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] WaterexerciseprogramGAPMallorca.xlsx (0.31 MB)

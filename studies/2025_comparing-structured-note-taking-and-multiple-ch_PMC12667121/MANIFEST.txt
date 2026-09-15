@@ -1,0 +1,11 @@
+TITEL: Comparing structured note-taking and multiple-choice question writing as learning strategies among physiotherapy student
+DOI: 10.1186/s12909-025-08272-7
+PMCID: PMC12667121
+JOURNAL: BMC medical education 2025
+DATA: 10.5281/zenodo.15861339
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Evaluating active learning strategies among students - a comparison of note-taking and multiple-choice questio (0.26 MB)

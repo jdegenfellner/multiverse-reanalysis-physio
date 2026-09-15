@@ -1,0 +1,14 @@
+TITEL: Acute Responses and Chronic Adaptations to Cluster Versus Traditional Set Resistance Training in Males and Females
+DOI: 10.1002/ejsc.70160
+PMCID: PMC13140343
+JOURNAL: European journal of sport science 2026
+DATA: osf.io/mej4d
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  [cached] data.xlsx (0.56 MB)
+  [cached] Analyses Chronic.R (0.02 MB)
+  [cached] Analyses Acute.R (0.02 MB)
+  [cached] Statistical Assumptions.R (0.01 MB)

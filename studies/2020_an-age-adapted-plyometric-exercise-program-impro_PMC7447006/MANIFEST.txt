@@ -1,0 +1,11 @@
+TITEL: An age-adapted plyometric exercise program improves dynamic strength, jump performance and functional capacity in older 
+DOI: 10.1371/journal.pone.0237921
+PMCID: PMC7447006
+JOURNAL: PloS one 2020
+DATA: osf.io/fqph4
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Dataset_PLYO_online.xlsx (0.03 MB)

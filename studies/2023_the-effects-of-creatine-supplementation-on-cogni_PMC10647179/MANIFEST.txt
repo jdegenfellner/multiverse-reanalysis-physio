@@ -1,0 +1,41 @@
+TITEL: The effects of creatine supplementation on cognitive performance-a randomised controlled study
+DOI: 10.1186/s12916-023-03146-5
+PMCID: PMC10647179
+JOURNAL: BMC medicine 2023
+DATA: osf.io/xpwkc
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 31
+  [cached] BDS-final-ccp-code-main-analysis.html (0.76 MB)
+  [cached] VLMT final data for osf.xlsx (0.10 MB)
+  [cached] word-fluency-final-ccp-code-main-analysis.html (0.77 MB)
+  [cached] TMTA-final-ccp-code-main-analysis.html (0.77 MB)
+  [cached] final-ccp-code-main-analysis.Rmd (0.01 MB)
+  [cached] Creatine paper study protocol.pdf (0.24 MB)
+  [cached] Blocktapping-backwards-final-ccp-code-main-analysis.html (0.76 MB)
+  [cached] VLMT-A6-final-ccp-code-main-analysis.html (0.79 MB)
+  [cached] D2-final-ccp-code-main-analysis.html (0.76 MB)
+  [cached] Stroop final data for osf.xlsx (0.03 MB)
+  [cached] BVMTR final data for osf.xlsx (0.02 MB)
+  [cached] D2 final data for osf.xlsx (0.02 MB)
+  [cached] Blocktapping-forwards-final-ccp-code-main-analysis.html (0.75 MB)
+  [cached] TMTB-final-ccp-code-main-analysis.html (0.78 MB)
+  [cached] RAPM-final-ccp-code-main-analysis.html (0.76 MB)
+  [cached] Context final for osf.xlsx (0.18 MB)
+  [cached] BDS final data for osf.xlsx (0.02 MB)
+  [cached] Codebook - Notes on datasets creatine study.pdf (0.07 MB)
+  [cached] word fluency final data for osf.xlsx (0.02 MB)
+  [cached] VLMT-Geffen1990-final-ccp-code-main-analysis.html (0.77 MB)
+  [cached] Preregistration creatine study.pdf (0.22 MB)
+  [cached] Stroop-colors-final-ccp-code-main-analysis.html (0.77 MB)
+  [cached] Blocktapping final data for osf.xlsx (0.02 MB)
+  [cached] VLMT-SumA1toA5-final-ccp-code-main-analysis.html (0.79 MB)
+  [cached] FDS final data for osf.xlsx (0.04 MB)
+  [cached] VLMT-A7-final-ccp-code-main-analysis.html (0.78 MB)
+  [cached] FDS-final-ccp-code-main-analysis.html (0.76 MB)
+  [cached] BVMTR-ccp-code-main-analysis.html (0.76 MB)
+  [cached] Stroop-colorletters-final-ccp-code-main-analysis.html (0.77 MB)
+  [cached] TMT final data for osf.xlsx (0.06 MB)
+  [cached] RAPM final data for osf.xlsx (0.03 MB)

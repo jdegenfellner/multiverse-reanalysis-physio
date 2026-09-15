@@ -1,0 +1,15 @@
+TITEL: Lengthened partial repetitions elicit similar muscular adaptations as full range of motion repetitions during resistance
+DOI: 10.7717/peerj.18904
+PMCID: PMC11829627
+JOURNAL: PeerJ 2025
+DATA: osf.io/a6cpz
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  UEBERSPRUNGEN (1409 MB, > 400 MB): Exercise Technique Demonstration Videos.zip
+      https://osf.io/download/75wpb/
+  [cached] Participant Training Videos.pdf (0.03 MB)
+  [cached] ROM Study Methods _Final_.docx (1.68 MB)
+  [cached] Data Sheet.xlsx (0.02 MB)

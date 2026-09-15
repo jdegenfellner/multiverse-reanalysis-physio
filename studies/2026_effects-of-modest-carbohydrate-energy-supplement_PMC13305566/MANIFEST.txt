@@ -1,0 +1,11 @@
+TITEL: Effects of Modest Carbohydrate-Energy Supplementation on Resistance Training Adaptations in Trained Men: A Crossover Tri
+DOI: 10.3390/nu18121961
+PMCID: PMC13305566
+JOURNAL: Nutrients 2026
+DATA: osf.io/enz8m
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Data for SPSS.xlsx (0.03 MB)

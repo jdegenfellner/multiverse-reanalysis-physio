@@ -1,0 +1,17 @@
+TITEL: Early Sitting in Ischemic Stroke Patients (SEVEL): A Randomized Controlled Trial
+DOI: 10.1371/journal.pone.0149466
+PMCID: PMC4811411
+JOURNAL: PloS one 2016
+DATA: 10.5061/dryad.jh15q
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 7
+  [FEHLER http=401] README_for_TABLE_3_OUTCOME_database resubmit.xls (0.05 MB)
+  [FEHLER http=429] README_for_TABLE_4_MEDICAL_COMPLICATIONS database resubmit.xls (0.06 MB)
+  [FEHLER http=429] Subsequently excluded patients.xls (0.03 MB)
+  [FEHLER http=429] TABLE_1_DESCRIPTION_Database resubmit.xls (0.09 MB)
+  [FEHLER http=429] TABLE_2_TOLERANCE database.xls (0.07 MB)
+  [FEHLER http=429] TABLE_3_OUTCOME_database resubmit.xls (0.05 MB)
+  [FEHLER http=429] TABLE_4_MEDICAL_COMPLICATIONS database resubmit.xls (0.06 MB)

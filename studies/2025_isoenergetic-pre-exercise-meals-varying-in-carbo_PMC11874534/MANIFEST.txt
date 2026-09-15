@@ -1,0 +1,20 @@
+TITEL: Isoenergetic Pre-Exercise Meals Varying in Carbohydrate Similarly Affect Resistance Training Volume Performance Compared
+DOI: 10.1002/ejsc.12274
+PMCID: PMC11874534
+JOURNAL: European journal of sport science 2025
+DATA: osf.io/sc2up
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 10
+  [cached] CHOdataset.xlsx (0.04 MB)
+  [cached] CHOanalysiscode.R (0.03 MB)
+  [cached] CHOanalysiscode_trialeffect.R (0.03 MB)
+  [cached] reps_exerciseR1.pdf (0.01 MB)
+  [cached] glucoseR1.pdf (0.02 MB)
+  [cached] satietyR1.pdf (0.02 MB)
+  [cached] total_volumeR1.pdf (0.01 MB)
+  [cached] fullnessR1.pdf (0.02 MB)
+  [cached] lactateR1.pdf (0.01 MB)
+  [cached] hungerR1.pdf (0.02 MB)

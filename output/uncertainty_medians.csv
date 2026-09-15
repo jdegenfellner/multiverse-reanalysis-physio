@@ -1,0 +1,5 @@
+"quantity","est","boot_lo","boot_hi"
+"median range d, principled",0.119200841413607,0.0917460676383807,0.212473894765199
+"median range d, defensible",0.238948033905206,0.131850988843339,0.321514166307617
+"median ratio defensible/principled (finite only)",1.35099134954013,1.12086735819906,1.52015554436719
+"median |published d - multiverse median d| (principled)",0.0156154629445156,0.002722274355349,0.0564205793899798

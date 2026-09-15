@@ -1,0 +1,11 @@
+TITEL: Understanding how individualised physiotherapy or advice altered different elements of disability for people with low ba
+DOI: 10.1371/journal.pone.0263574
+PMCID: PMC8830646
+JOURNAL: PloS one 2022
+DATA: 10.5281/zenodo.5902763
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [ok] bernard-liew_2020_ODI_network-network_analysis.zip (84.57 MB)

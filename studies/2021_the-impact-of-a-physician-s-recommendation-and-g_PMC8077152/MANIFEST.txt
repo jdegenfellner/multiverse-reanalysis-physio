@@ -1,0 +1,12 @@
+TITEL: The impact of a physician's recommendation and gender on informed decision making: A randomized controlled study in a si
+DOI: 10.1111/hex.13161
+PMCID: PMC8077152
+JOURNAL: Health expectations : an international 2021
+DATA: osf.io/y467e
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] _Physican_s recommendations and gender__Dataset.sav (0.89 MB)
+  [cached] _Physician_s recommendation and gender__Syntax.sps (0.03 MB)

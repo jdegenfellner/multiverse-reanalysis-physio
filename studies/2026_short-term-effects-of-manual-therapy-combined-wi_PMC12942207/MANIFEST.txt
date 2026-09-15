@@ -1,0 +1,12 @@
+TITEL: Short-Term Effects of Manual Therapy Combined with Functional Magnetic Stimulation in Individuals with Lumbar Disk Herni
+DOI: 10.3390/medicina62020249
+PMCID: PMC12942207
+JOURNAL: Medicina (Kaunas, Lithuania) 2026
+DATA: 10.5281/zenodo.17936953
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] Lytras FMS 1 data.sav (0.00 MB)
+  [cached] README.docx (0.02 MB)

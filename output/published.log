@@ -1,0 +1,67 @@
+published.csv: 21 Studien, 16 mit publiziertem Schaetzer
+                     study_id                        field population
+1         aquatic_PMC12111718 physiotherapy_rehabilitation      other
+2      clusterset_PMC13140343          exercise_physiology    healthy
+3        creatine_PMC11944689             sports_nutrition    healthy
+4             etip_PMC6886967          exercise_physiology   pregnant
+5            etre_PMC11945196             sports_nutrition    healthy
+6          facial_PMC11164989 physiotherapy_rehabilitation   patients
+7             free_PMC6733445 physiotherapy_rehabilitation   patients
+8     gainingmore_PMC10809978          exercise_physiology    healthy
+9   lengthpartial_PMC11829627          exercise_physiology    healthy
+10         lymfit_PMC11171874          exercise_physiology  survivors
+11     lytras_fms_PMC12942207 physiotherapy_rehabilitation   patients
+12        mallorca_PMC8198819          exercise_physiology   pregnant
+13       mulligan_PMC13092435 physiotherapy_rehabilitation   patients
+14          odinet_PMC8830646 physiotherapy_rehabilitation   patients
+15    phosphatidic_PMC4891923             sports_nutrition    healthy
+16 physiofeedback_PMC12821712          exercise_physiology    healthy
+17    pregnancy12w_PMC4573757          exercise_physiology   pregnant
+18           spadi_PMC4880881                        other   patients
+19           tdcs_PMC13257960              neuromodulation   patients
+20          tereco_PMC8318721 physiotherapy_rehabilitation  survivors
+21           tscs_PMC13085461 physiotherapy_rehabilitation   patients
+   published_est published_p B_baseline_handling B_model_family
+1           2.23          NA               other          anova
+2             NA       0.352               other       mixed_ri
+3           0.51       0.030              ancova      lm_ancova
+4           2.60       0.420              ancova      lm_ancova
+5           2.13       0.001               other       mixed_ri
+6             NA       0.002              change       nonparam
+7           0.57       0.354              ancova   mixed_slopes
+8          -0.63       0.273              change       mixed_ri
+9          -0.08       0.438             unclear       mixed_ri
+10         18.30       0.002              ancova      lm_ancova
+11         -1.20       0.018               other          anova
+12         -0.70       0.010            endpoint          anova
+13            NA       0.383              change          anova
+14            NA          NA            endpoint          other
+15         33.30       0.041              change          anova
+16          0.02       0.678               other       mixed_ri
+17            NA       0.014               other           mmrm
+18        -20.80          NA              ancova          anova
+19          6.85       0.010            endpoint          ttest
+20         65.45          NA              ancova       mixed_ri
+21          7.67          NA              ancova      lm_ancova
+   registry_outcome_ok
+1                   no
+2                   no
+3                   no
+4                   no
+5                  yes
+6                   no
+7                  yes
+8              unclear
+9              unclear
+10             unclear
+11                 yes
+12                  no
+13                 yes
+14                  no
+15                 yes
+16                  no
+17                  no
+18                  no
+19                 yes
+20                 yes
+21                 yes

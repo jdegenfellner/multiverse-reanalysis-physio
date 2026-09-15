@@ -1,0 +1,12 @@
+TITEL: Time-Restricted Eating Without Exercise Enhances Anaerobic Power and Reduces Body Weight: A Randomized Crossover Trial i
+DOI: 10.3390/nu17183011
+PMCID: PMC12473138
+JOURNAL: Nutrients 2025
+DATA: 10.5281/zenodo.16874956
+CODE: 
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 2
+  [cached] k.csv (0.00 MB)
+  [cached] 0.csv (0.00 MB)

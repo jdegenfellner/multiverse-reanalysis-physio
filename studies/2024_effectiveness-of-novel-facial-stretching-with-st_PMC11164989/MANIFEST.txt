@@ -1,0 +1,15 @@
+TITEL: Effectiveness of novel facial stretching with structured exercise versus conventional exercise for Bell's palsy: a singl
+DOI: 10.1038/s41598-024-64046-z
+PMCID: PMC11164989
+JOURNAL: Scientific reports 2024
+DATA: osf.io/uvw89
+CODE: 
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 5
+  [cached] Appendix.docx (0.48 MB)
+  [cached] Copyright _certificate_.pdf (0.78 MB)
+  [cached] Copyright _work_.pdf (1.83 MB)
+  [cached] Data sheet.xlsx (0.01 MB)
+  [cached] Consort chart and Tables.docx (0.06 MB)

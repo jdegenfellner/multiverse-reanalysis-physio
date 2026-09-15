@@ -1,0 +1,14 @@
+TITEL: Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular 
+DOI: 10.7717/peerj.16777
+PMCID: PMC10809978
+JOURNAL: PeerJ 2024
+DATA: osf.io/kdgv3
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  [cached] Dataset Deload.xlsx (0.02 MB)
+  [cached] Supplementary-File-S3-WAMBS-Checklist.pdf (2.98 MB)
+  [cached] Supplementary-file-S2-Readiness-to-Train-Questionnaire.pdf (0.11 MB)
+  [cached] Supplementary_file_S1_Training_Program.pdf (0.03 MB)

@@ -1,0 +1,12 @@
+TITEL: Transcutaneous spinal cord stimulation combined with robot-assisted gait training to improve mobility and balance in spi
+DOI: 10.1186/s12916-026-04697-z
+PMCID: PMC13085461
+JOURNAL: BMC medicine 2026
+DATA: zenodo.org/records/17424997
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] iEMG _1_ 2.0.sav (0.01 MB)
+  [cached] iemg Output1.spv (0.37 MB)

@@ -1,0 +1,12 @@
+TITEL: Effect of a Physio-Feedback Exercise Intervention Program on the Static Balance of Community-Dwelling Older Adults: A Cl
+DOI: 10.3390/geriatrics11010006
+PMCID: PMC12821712
+JOURNAL: Geriatrics (Basel, Switzerland) 2026
+DATA: osf.io/8763w
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] statistical code.R (0.01 MB)
+  [cached] deidentified data.xlsx (0.17 MB)

@@ -1,0 +1,51 @@
+                                                      quantity  k   n   prop
+lo...1                                         reproduced full 11  12 0.9167
+lo...2                                reproduced full or minor 11  12 0.9167
+lo...3                       published inside principled range  9  11 0.8182
+lo...4                       published inside defensible range 11  12 0.9167
+lo...5                                  sign stable principled 16  16 1.0000
+lo...6                                  sign stable defensible 13  16 0.8125
+lo...7                             range includes 0 principled  0  16 0.0000
+lo...8                                spec fully representable  7  12 0.5833
+lo...9  reproduced full or minor, denominator 48 assessed RCTs 11  48 0.2292
+lo...10    reproduced full or minor, denominator 152 with link 11 152 0.0724
+lo...11                               included, denominator 48 16  48 0.3333
+lo...12                              included, denominator 152 16 152 0.1053
+        wilson_lo wilson_hi
+lo...1     0.6461     0.985
+lo...2     0.6461     0.985
+lo...3     0.5230     0.949
+lo...4     0.6461     0.985
+lo...5     0.8064     1.000
+lo...6     0.5699     0.934
+lo...7     0.0000     0.194
+lo...8     0.3195     0.807
+lo...9     0.1331     0.365
+lo...10    0.0409     0.125
+lo...11    0.2168     0.475
+lo...12    0.0658     0.164
+                                                 quantity    est boot_lo
+1                              median range d, principled 0.1192 0.09175
+2                              median range d, defensible 0.2389 0.13185
+3        median ratio defensible/principled (finite only) 1.3510 1.12087
+4 median |published d - multiverse median d| (principled) 0.0156 0.00272
+  boot_hi
+1  0.2125
+2  0.3215
+3  1.5202
+4  0.0564
+                     study_id published_d   med_p    diff_d
+1        creatine_PMC11944689      0.0441  0.0446 -0.000459
+2             etip_PMC6886967      0.1918  0.1916  0.000239
+3            etre_PMC11945196     -0.9050 -0.9034 -0.001593
+4             free_PMC6733445      0.1366  0.0911  0.045543
+5     gainingmore_PMC10809978     -0.0768 -0.0901  0.013253
+6      lytras_fms_PMC12942207     -0.7854 -0.8837  0.098245
+7         mallorca_PMC8198819     -0.3191 -0.3152 -0.003851
+8  physiofeedback_PMC12821712      0.0502  0.1084 -0.058286
+9            spadi_PMC4880881     -0.9118 -0.9749  0.063166
+10           tdcs_PMC13257960      1.4057  1.4237 -0.017978
+11          tereco_PMC8318721      0.8380  0.8428 -0.004769
+12           tscs_PMC13085461      0.9756  1.0302 -0.054555
+
+Differenz publiziert - Median: Median -0.001, Spannweite -0.058 bis 0.098 SD

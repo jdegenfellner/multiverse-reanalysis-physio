@@ -1,0 +1,22 @@
+Warning message:
+In chisq.test(table(factor(ld, levels = 0:9))) :
+  Chi-squared approximation may be incorrect
+  Studie                          n  k_nam    p_nam  k_all    p_all dupRow  p_digit  Flag
+  physiofeedback_PMC12821712    358      2    0.308      2    0.308      0    0.918  pass
+  mulligan_PMC13092435           29      1       NA      2    0.510      0        -  pass
+  lytras_fms_PMC12942207         40      1       NA      5    0.873      0        -  pass
+  clusterset_PMC13140343         36      0       NA      8    0.333      0        -  pass
+  tereco_PMC8318721             119      1       NA      7    0.672      0        -  pass
+  spadi_PMC4880881               72      1       NA      5    0.859      0        -  pass
+  tscs_PMC13085461               20      1       NA     10    0.145      0        -  pass
+  tdcs_PMC13257960               20      1       NA     13    0.953      0        -  pass
+  etip_PMC6886967                91      1       NA     43    0.324      0        -  pass
+  phosphatidic_PMC4891923        18      1       NA      5    0.449      0        -  pass
+  facial_PMC11164989             24      1       NA      2    0.911      0        -  pass
+  gainingmore_PMC10809978        39      1       NA      9    0.573      0    0.491  pass
+  etre_PMC11945196               16      0       NA      0       NA      0        -  pass
+  creatine_PMC11944689           64      1       NA     25    0.269      0    0.312  pass
+  free_PMC6733445               226      1       NA     21    0.892      0        -  pass
+  mallorca_PMC8198819           294      0       NA     16    0.263      0        -  pass
+
+Flags: 0 von 16 

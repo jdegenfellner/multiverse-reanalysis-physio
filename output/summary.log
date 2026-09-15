@@ -1,0 +1,77 @@
+
+=== Je Studie: Median d [Spannweite], Vorzeichenanteil ===
+-- principled --
+  spadi_PMC4880881             n= 71  spec=   9  d= -0.97 [ -1.00,  -0.90]  sign 100%  |d|>MCID 100%  s med 12.3
+  etre_PMC11945196             n= 16  spec=   9  d= -0.90 [ -1.24,  -0.87]  sign 100%  |d|>MCID 100%  s med  9.7
+  lytras_fms_PMC12942207       n= 40  spec=   9  d= -0.88 [ -1.01,  -0.79]  sign 100%  |d|>MCID 100%  s med  7.3
+  mallorca_PMC8198819          n=263  spec=   3  d= -0.32 [ -0.32,  -0.32]  sign 100%  |d|>MCID 100%  s med  6.5
+  mulligan_PMC13092435         n= 29  spec=   9  d= -0.22 [ -0.32,  -0.12]  sign 100%  |d|>MCID  67%  s med  1.0
+  gainingmore_PMC10809978      n= 39  spec=   9  d= -0.09 [ -0.47,  -0.06]  sign 100%  |d|>MCID  33%  s med  1.0
+  creatine_PMC11944689         n= 63  spec=   9  d=  0.04 [  0.04,   0.26]  sign 100%  |d|>MCID  33%  s med  5.2
+  clusterset_PMC13140343       n= 36  spec=  18  d=  0.06 [  0.05,   0.17]  sign 100%  |d|>MCID   0%  s med  1.5
+  free_PMC6733445              n=214  spec=  35  d=  0.09 [  0.06,   0.12]  sign 100%  |d|>MCID   0%  s med  0.8
+  phosphatidic_PMC4891923      n= 18  spec=   9  d=  0.10 [  0.06,   0.11]  sign 100%  |d|>MCID   0%  s med  3.8
+  physiofeedback_PMC12821712   n=276  spec=  23  d=  0.11 [  0.05,   0.14]  sign 100%  |d|>MCID   0%  s med  1.4
+  etip_PMC6886967              n= 59  spec=   9  d=  0.19 [  0.04,   0.25]  sign 100%  |d|>MCID  33%  s med  1.2
+  tereco_PMC8318721            n=112  spec=  18  d=  0.84 [  0.79,   0.91]  sign 100%  |d|>MCID 100%  s med 17.9
+  tscs_PMC13085461             n= 20  spec=   9  d=  1.03 [  0.98,   1.36]  sign 100%  |d|>MCID 100%  s med 12.3
+  tdcs_PMC13257960             n= 20  spec=   9  d=  1.42 [  1.41,   1.46]  sign 100%  |d|>MCID 100%  s med  7.5
+  facial_PMC11164989           n= 23  spec=   9  d=  1.49 [  1.45,   1.55]  sign 100%  |d|>MCID 100%  s med  9.6
+-- strict --
+  spadi_PMC4880881             n= 71  spec=   3  d= -0.97 [ -0.97,  -0.97]  sign 100%  |d|>MCID 100%  s med 17.3
+  lytras_fms_PMC12942207       n= 40  spec=   3  d= -0.88 [ -0.88,  -0.88]  sign 100%  |d|>MCID 100%  s med  7.7
+  etre_PMC11945196             n= 16  spec=   3  d= -0.87 [ -0.87,  -0.87]  sign 100%  |d|>MCID 100%  s med  9.0
+  mallorca_PMC8198819          n=263  spec=   3  d= -0.32 [ -0.32,  -0.32]  sign 100%  |d|>MCID 100%  s med  6.5
+  mulligan_PMC13092435         n= 29  spec=   3  d= -0.22 [ -0.22,  -0.22]  sign 100%  |d|>MCID 100%  s med  1.0
+  gainingmore_PMC10809978      n= 39  spec=   3  d= -0.09 [ -0.09,  -0.09]  sign 100%  |d|>MCID   0%  s med  1.0
+  creatine_PMC11944689         n= 63  spec=   3  d=  0.04 [  0.04,   0.04]  sign 100%  |d|>MCID   0%  s med  5.1
+  clusterset_PMC13140343       n= 36  spec=   6  d=  0.06 [  0.05,   0.06]  sign 100%  |d|>MCID   0%  s med  1.5
+  free_PMC6733445              n=214  spec=  12  d=  0.09 [  0.08,   0.10]  sign 100%  |d|>MCID   0%  s med  0.9
+  phosphatidic_PMC4891923      n= 18  spec=   3  d=  0.11 [  0.11,   0.11]  sign 100%  |d|>MCID   0%  s med  4.4
+  physiofeedback_PMC12821712   n=276  spec=   8  d=  0.11 [  0.09,   0.13]  sign 100%  |d|>MCID   0%  s med  1.5
+  etip_PMC6886967              n= 59  spec=   3  d=  0.19 [  0.19,   0.19]  sign 100%  |d|>MCID   0%  s med  1.2
+  tereco_PMC8318721            n=112  spec=   6  d=  0.84 [  0.83,   0.85]  sign 100%  |d|>MCID 100%  s med 24.3
+  tscs_PMC13085461             n= 20  spec=   3  d=  0.98 [  0.98,   0.98]  sign 100%  |d|>MCID 100%  s med 17.3
+  tdcs_PMC13257960             n= 20  spec=   3  d=  1.42 [  1.42,   1.42]  sign 100%  |d|>MCID 100%  s med  7.6
+  facial_PMC11164989           n= 23  spec=   3  d=  1.49 [  1.49,   1.49]  sign 100%  |d|>MCID 100%  s med 10.6
+-- defensible --
+  spadi_PMC4880881             n= 72  spec=  24  d= -0.95 [ -1.00,  -0.87]  sign 100%  |d|>MCID 100%  s med 14.0
+  etre_PMC11945196             n= 16  spec=  18  d= -0.92 [ -1.26,  -0.87]  sign 100%  |d|>MCID 100%  s med  9.4
+  lytras_fms_PMC12942207       n= 40  spec=   9  d= -0.88 [ -1.01,  -0.79]  sign 100%  |d|>MCID 100%  s med  7.3
+  mulligan_PMC13092435         n= 29  spec=  18  d= -0.32 [ -0.41,  -0.12]  sign 100%  |d|>MCID  83%  s med  1.5
+  mallorca_PMC8198819          n=294  spec=  10  d= -0.30 [ -0.32,  -0.28]  sign 100%  |d|>MCID 100%  s med  5.8
+  gainingmore_PMC10809978      n= 39  spec=  18  d= -0.10 [ -0.50,  -0.04]  sign 100%  |d|>MCID  33%  s med  1.1
+  creatine_PMC11944689         n= 64  spec=  48  d=  0.04 [  0.02,   0.28]  sign 100%  |d|>MCID  23%  s med  3.2
+  clusterset_PMC13140343       n= 36  spec=  36  d=  0.06 [  0.05,   0.18]  sign 100%  |d|>MCID   0%  s med  1.5
+  physiofeedback_PMC12821712   n=276  spec=  45  d=  0.07 [ -0.02,   0.14]  sign  96%  |d|>MCID   0%  s med  0.8
+  free_PMC6733445              n=226  spec=  96  d=  0.09 [ -0.06,   0.14]  sign  95%  |d|>MCID   0%  s med  0.8
+  phosphatidic_PMC4891923      n= 18  spec=  18  d=  0.10 [  0.06,   0.11]  sign 100%  |d|>MCID   0%  s med  4.0
+  etip_PMC6886967              n= 91  spec=  48  d=  0.13 [ -0.02,   0.25]  sign  94%  |d|>MCID  19%  s med  1.0
+  tereco_PMC8318721            n=119  spec=  96  d=  0.76 [  0.54,   0.92]  sign 100%  |d|>MCID 100%  s med 16.4
+  tscs_PMC13085461             n= 20  spec=  18  d=  1.09 [  0.98,   1.50]  sign 100%  |d|>MCID 100%  s med 10.8
+  tdcs_PMC13257960             n= 20  spec=  18  d=  1.41 [  1.38,   1.46]  sign 100%  |d|>MCID 100%  s med  7.3
+  facial_PMC11164989           n= 24  spec=  30  d=  1.51 [  1.35,   1.60]  sign 100%  |d|>MCID 100%  s med  9.5
+-- outlier_arm --
+  spadi_PMC4880881             n= 71  spec=   9  d= -0.97 [ -1.00,  -0.90]  sign 100%  |d|>MCID 100%  s med 12.3
+  etre_PMC11945196             n= 16  spec=   9  d= -0.90 [ -1.24,  -0.87]  sign 100%  |d|>MCID 100%  s med  9.7
+  lytras_fms_PMC12942207       n= 40  spec=   9  d= -0.88 [ -1.01,  -0.79]  sign 100%  |d|>MCID 100%  s med  7.3
+  mallorca_PMC8198819          n=263  spec=  19  d= -0.29 [ -0.32,  -0.24]  sign 100%  |d|>MCID 100%  s med  6.4
+  mulligan_PMC13092435         n= 29  spec=   9  d= -0.22 [ -0.32,  -0.12]  sign 100%  |d|>MCID  67%  s med  1.0
+  gainingmore_PMC10809978      n= 39  spec=   9  d= -0.09 [ -0.47,  -0.06]  sign 100%  |d|>MCID  33%  s med  1.0
+  creatine_PMC11944689         n= 63  spec=   9  d=  0.04 [  0.04,   0.26]  sign 100%  |d|>MCID  33%  s med  5.2
+  free_PMC6733445              n=214  spec= 219  d=  0.05 [ -0.03,   0.12]  sign  91%  |d|>MCID   0%  s med  0.4
+  clusterset_PMC13140343       n= 36  spec=  18  d=  0.06 [  0.05,   0.17]  sign 100%  |d|>MCID   0%  s med  1.5
+  physiofeedback_PMC12821712   n=276  spec= 157  d=  0.09 [  0.02,   0.14]  sign 100%  |d|>MCID   0%  s med  1.1
+  phosphatidic_PMC4891923      n= 18  spec=   9  d=  0.10 [  0.06,   0.11]  sign 100%  |d|>MCID   0%  s med  3.8
+  etip_PMC6886967              n= 59  spec=  30  d=  0.23 [  0.04,   0.29]  sign 100%  |d|>MCID  70%  s med  1.6
+  tereco_PMC8318721            n=112  spec= 126  d=  0.83 [  0.76,   0.91]  sign 100%  |d|>MCID 100%  s med 19.1
+  tscs_PMC13085461             n= 20  spec=   9  d=  1.03 [  0.98,   1.36]  sign 100%  |d|>MCID 100%  s med 12.3
+  tdcs_PMC13257960             n= 20  spec=  41  d=  1.38 [  0.38,   1.46]  sign 100%  |d|>MCID 100%  s med  7.9
+  facial_PMC11164989           n= 23  spec=  16  d=  1.49 [  1.44,   1.55]  sign 100%  |d|>MCID 100%  s med  9.6
+
+=== Ueber Studien ===
+principled  Spannweite d: Median 0.12 (IQR 0.08-0.22, max 0.41) | Vorzeichenanteil: Median 1.00, min 1.00 | Studien mit Spannweite ueber 0: 0/16
+strict      Spannweite d: Median 0.00 (IQR 0.00-0.00, max 0.04) | Vorzeichenanteil: Median 1.00, min 1.00 | Studien mit Spannweite ueber 0: 0/16
+defensible  Spannweite d: Median 0.24 (IQR 0.13-0.32, max 0.52) | Vorzeichenanteil: Median 1.00, min 0.94 | Studien mit Spannweite ueber 0: 3/16
+outlier_arm Spannweite d: Median 0.18 (IQR 0.12-0.27, max 1.08) | Vorzeichenanteil: Median 1.00, min 0.91 | Studien mit Spannweite ueber 0: 1/16
+Verhaeltnis Spannweite defensible/principled: Median 1.35, Spannweite 1.00-Inf

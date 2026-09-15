@@ -1,0 +1,22 @@
+
+=== Stufe 2: Reproduktion ===
+
+             full major_discrepancy minor_discrepancy no_point_estimate 
+                6                 2                 4                 4 
+publizierte Spezifikation vollstaendig im Gitter: 7 von 12 | Gleichstaende: 3 
+  clusterset_PMC13140343       no_point_estimate  publ        NA  unsere        NA  rel    NA%  abs    NA SD  Gitter NA    Perz(princ)   NA  Paper berichtet keinen Punktschaetzer der Gruppendifferenz (nur p = 0.352)
+  creatine_PMC11944689         full               publ     0.510  unsere     0.507  rel   0.5%  abs 0.000 SD  Gitter TRUE  Perz(princ) 0.33  
+  etip_PMC6886967              full               publ     2.600  unsere     2.597  rel   0.1%  abs 0.000 SD  Gitter TRUE  Perz(princ) 0.67  
+  etre_PMC11945196             full               publ    -2.130  unsere    -2.126  rel   0.2%  abs 0.002 SD  Gitter FALSE Perz(princ) 0.33  publizierte Spezifikation nur zu 5/6 Knoten abbildbar
+  facial_PMC11164989           no_point_estimate  publ        NA  unsere        NA  rel    NA%  abs    NA SD  Gitter NA    Perz(princ)   NA  Paper berichtet keinen Punktschaetzer der Gruppendifferenz (nur p = 0.002)
+  free_PMC6733445              major_discrepancy  publ     0.570  unsere     0.313  rel  45.2%  abs 0.062 SD  Gitter FALSE Perz(princ) 1.00  publizierte Spezifikation nur zu 5/6 Knoten abbildbar
+  gainingmore_PMC10809978      major_discrepancy  publ    -0.630  unsere    -0.492  rel  21.8%  abs 0.017 SD  Gitter FALSE Perz(princ) 0.67  publizierte Spezifikation nur zu 5/6 Knoten abbildbar
+  lytras_fms_PMC12942207       full               publ    -1.200  unsere    -1.200  rel   0.0%  abs 0.000 SD  Gitter TRUE  Perz(princ) 0.67  
+  mallorca_PMC8198819          minor_discrepancy  publ    -0.700  unsere    -0.673  rel   3.9%  abs 0.012 SD  Gitter TRUE  Perz(princ) 0.00  
+  mulligan_PMC13092435         no_point_estimate  publ        NA  unsere        NA  rel    NA%  abs    NA SD  Gitter NA    Perz(princ)   NA  Paper berichtet keinen Punktschaetzer der Gruppendifferenz (nur p = 0.383)
+  phosphatidic_PMC4891923      no_point_estimate  publ        NA  unsere        NA  rel    NA%  abs    NA SD  Gitter NA    Perz(princ)   NA  Paper berichtet keinen Punktschaetzer der Gruppendifferenz (nur p = 0.041)
+  physiofeedback_PMC12821712   minor_discrepancy  publ     0.020  unsere     0.019  rel   7.0%  abs 0.004 SD  Gitter FALSE Perz(princ)   NA  publizierte Spezifikation nur zu 4/5 Knoten abbildbar
+  spadi_PMC4880881             minor_discrepancy  publ   -20.800  unsere   -22.241  rel   6.9%  abs 0.063 SD  Gitter TRUE  Perz(princ) 0.67  
+  tdcs_PMC13257960             full               publ     6.850  unsere     6.848  rel   0.0%  abs 0.000 SD  Gitter TRUE  Perz(princ) 0.33  
+  tereco_PMC8318721            minor_discrepancy  publ    65.450  unsere    63.038  rel   3.7%  abs 0.031 SD  Gitter FALSE Perz(princ) 0.50  publizierte Spezifikation nur zu 5/6 Knoten abbildbar
+  tscs_PMC13085461             full               publ     7.670  unsere     7.666  rel   0.1%  abs 0.000 SD  Gitter TRUE  Perz(princ) 0.33  

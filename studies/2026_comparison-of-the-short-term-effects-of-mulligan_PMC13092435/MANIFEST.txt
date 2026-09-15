@@ -1,0 +1,12 @@
+TITEL: Comparison of the short-term effects of Mulligan and Maitland mobilisation techniques combined with home-based exercise 
+DOI: 10.1142/s1013702526500058
+PMCID: PMC13092435
+JOURNAL: Hong Kong physiotherapy journal : offi 2026
+DATA: 10.5281/zenodo.15278572
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] Kiouloukiotis data.sav (0.04 MB)
+  [cached] README.docx..docx (0.02 MB)

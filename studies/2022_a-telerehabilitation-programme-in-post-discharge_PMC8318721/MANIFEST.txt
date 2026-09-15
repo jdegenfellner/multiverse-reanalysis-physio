@@ -1,0 +1,16 @@
+TITEL: A telerehabilitation programme in post-discharge COVID-19 patients (TERECO): a randomised controlled trial
+DOI: 10.1136/thoraxjnl-2021-217382
+PMCID: PMC8318721
+JOURNAL: Thorax 2022
+DATA: 10.5061/dryad.59zw3r27n
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 6
+  [FEHLER http=401] CodebookTERECO_Public_ae.pdf (0.13 MB)
+  [FEHLER http=401] CodebookTERECO_Public.pdf (0.23 MB)
+  [FEHLER http=401] TERECO_Public_Data_ae_long.csv (0.02 MB)
+  [FEHLER http=401] tereco_public_data_ae_long.dta (0.04 MB)
+  [FEHLER http=401] TERECO_Public_Data_wide.csv (0.06 MB)
+  [FEHLER http=401] tereco_public_data_wide.dta (0.11 MB)

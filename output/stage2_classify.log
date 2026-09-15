@@ -1,0 +1,45 @@
+                     study_id published_est     est      rel   abs_sd
+1        creatine_PMC11944689          0.51   0.507 5.20e-03 2.29e-04
+2             etip_PMC6886967          2.60   2.600 1.25e-03 2.39e-04
+3            etre_PMC11945196         -2.13  -2.130 1.76e-03 1.59e-03
+4     gainingmore_PMC10809978         -0.63  -0.515 1.83e-01 1.40e-02
+5      lytras_fms_PMC12942207         -1.20  -1.200 0.00e+00 0.00e+00
+6         mallorca_PMC8198819         -0.70  -0.694 8.42e-03 2.69e-03
+7  physiofeedback_PMC12821712          0.02   0.021 4.88e-02 2.45e-03
+8            spadi_PMC4880881        -20.80 -20.800 1.42e-03 1.30e-03
+9            tdcs_PMC13257960          6.85   6.850 2.33e-04 3.27e-04
+10          tereco_PMC8318721         65.40  65.400 5.24e-05 4.39e-05
+11           tscs_PMC13085461          7.67   7.670 5.04e-04 4.91e-04
+12            free_PMC6733445          0.57   0.580 1.81e-02 2.47e-03
+   within_rounding class published_p        p p_verdict_same
+1            FALSE  full       0.030 2.79e-02           TRUE
+2            FALSE  full       0.420 4.17e-01           TRUE
+3            FALSE  full       0.001 2.41e-04           TRUE
+4            FALSE major       0.273       NA             NA
+5             TRUE  full       0.018 1.75e-02           TRUE
+6            FALSE  full       0.010 1.09e-02           TRUE
+7            FALSE minor       0.678 6.78e-01           TRUE
+8             TRUE  full          NA 2.55e-06             NA
+9            FALSE  full       0.010 5.63e-03           TRUE
+10           FALSE  full          NA 9.13e-09             NA
+11           FALSE  full          NA 6.41e-06             NA
+12           FALSE  full       0.354 3.67e-01           TRUE
+   our_ci_contains_pub   n
+1                 TRUE  63
+2                 TRUE  54
+3                 TRUE  24
+4                 TRUE  39
+5                 TRUE  40
+6                 TRUE 294
+7                 TRUE 373
+8                 TRUE  70
+9                 TRUE  20
+10                TRUE 119
+11                TRUE  20
+12                TRUE 221
+
+Klassen:
+ full major minor 
+   10     1     1 
+max abs_sd: 0.014 | median abs_sd: 0.001 | p-Verdikt gleich: 8 von 8 | KI enthaelt publ: 12 von 12 
+publiziertes KI berichtet: 11 | publ. p berichtet: 9 

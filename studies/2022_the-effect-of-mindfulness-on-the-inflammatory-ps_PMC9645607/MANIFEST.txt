@@ -1,0 +1,11 @@
+TITEL: The effect of mindfulness on the inflammatory, psychological and biomechanical domains of adult patients with low back p
+DOI: 10.1371/journal.pone.0276734
+PMCID: PMC9645607
+JOURNAL: PloS one 2022
+DATA: 10.5281/zenodo.6793420
+CODE: github.com/nirakara-lab/rct_minfulness_chronic_back_pain
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 1
+  [cached] nirakara-lab_RCT_Minfulness_Chronic_Back_Pain-MBSRCBP.zip (0.00 MB)

@@ -1,0 +1,62 @@
+{
+ "study_id": "lengthpartial_PMC11829627",
+ "primary_outcome_declared": "abstract",
+ "primary_outcome_name": "Muscle thickness (hypertrophy) of the elbow flexors and elbow extensors, assessed via B-mode ultrasonography at 45% and 55% of humeral length - the first-named outcome domain in the abstract (named before strength-endurance). The paper reports four parallel muscle-thickness sites (elbow flexor 45%, elbow flexor 55%, elbow extensor 45%, elbow extensor 55%) with no single site singled out as primary; the site coded as outcome_var in our registry (BB55) corresponds to elbow flexor / biceps brachii thickness at 55% of humeral length, one of these four sites.",
+ "primary_outcome_instrument_scale": "B-mode ultrasound muscle thickness (MT), continuous scale in millimeters (mm); registry outcome_var = BB55-Post/BB55-Pre = biceps brachii (elbow flexor) thickness at 55% of humeral length",
+ "primary_timepoint": "Post-intervention (after the 8-week resistance-training program) vs. pre-intervention baseline; only two timepoints (pre, post) were assessed",
+ "n_randomised": 30,
+ "n_analysed_primary": 25,
+ "n_arms": 2,
+ "arms": [
+  "pROM: lengthened partial range-of-motion resistance training, performed with one randomly assigned upper limb per participant (GROUP=1 in deposited data)",
+  "fROM: full range-of-motion resistance training, performed with the contralateral upper limb of the same participant (GROUP=2 in deposited data)"
+ ],
+ "contrast_reported_primary": "fROM vs. pROM (within-participant, contralateral-limb comparison of the two training conditions); Table 4 estimates are coded so that positive values favor fROM",
+ "population": "healthy",
+ "population_detail": "Within-participant (contralateral-limb) design, not a parallel-group trial: 30 healthy, resistance-trained adults (self-reported >=1 upper-body resistance-training session/week on >80% of weeks over the preceding 6 months) had their two upper limbs randomly assigned via counterbalanced block randomization (2 limbs/block) to either lengthened-partial ROM (pROM) or full ROM (fROM) resistance training; every participant therefore contributed data to both conditions simultaneously (one condition per limb) over an 8-week, twice-weekly, 4-exercise/session supervised multi-exercise program. Five of 30 participants dropped out (scheduling n=2, commute n=1, unrelated injury n=1, insufficient session attendance n=1), leaving n=25 completers (19 men, 6 women; training experience 4.9 +/- 4.1 years) analysed for both conditions. Because both limbs of the same person are compared, there is no separate 'control group' of different people; both conditions are active resistance-training interventions.",
+ "field": "exercise_physiology",
+ "intervention_delivered_by": "trainer",
+ "published_estimate": {
+  "type": "other",
+  "value": -0.08,
+  "ci_low": -1.1,
+  "ci_high": 0.90,
+  "se": null,
+  "p": 0.438,
+  "scale": "raw",
+  "direction_favours": "null",
+  "quote": "Table 4 Estimated group differences from Bayesian linear mixed models with informative neutral priors. [...] Elbow flexor 55% humeral length (mm)  -0.08 [-1.1 to 0.90]  p = 0.438  0.16: 'Moderate' Evidence support of H0. Note: Group differences: Positive values favor full range of motion intervention. p-values are calculated from the posterior distribution of the mean group difference parameter and express the probability of a positive value. Bayes Factor: Values less than 1 provide support for the null hypothesis. (Table 4, p. 10/19)"
+ },
+ "published_group_stats": {
+  "intervention": {"n": 25, "baseline_mean": 39.3, "baseline_sd": 7.9, "followup_mean": 41.1, "followup_sd": 7.6},
+  "control": {"n": 25, "baseline_mean": 39.6, "baseline_sd": 8.6, "followup_mean": 41.4, "followup_sd": 7.8}
+ },
+ "B_baseline_handling": "unclear",
+ "B_covariates": "unclear",
+ "B_covariate_list": "Nicht explizit berichtet. Der Methodentext nennt nur 'linear mixed models with random effect structures... to account for the within-participant design'; ob Baseline-MT als Kovariate im Modell diente oder das Modell direkt auf Veraenderungs-/Zeitwerte fit, ist aus dem Text nicht entscheidbar. Keine weiteren Kovariaten (Alter, Geschlecht, Trainingserfahrung) werden als adjustiert genannt.",
+ "B_analysis_population": "complete_case",
+ "B_missing_strategy": "complete_case",
+ "B_outlier_rule": "not_reported",
+ "B_transformation": "none",
+ "B_model_family": "mixed_ri",
+ "B_time_handling": "unclear",
+ "B_clustering_modelled": "none",
+ "B_strat_factors_adjusted": "not_stratified",
+ "B_se_method": "model_based",
+ "B_multiplicity": "none",
+ "C_baseline_test_reported": "no",
+ "C_adjust_after_baseline_test": "no",
+ "C_estimand_stated": "no",
+ "C_protocol_available": "yes",
+ "registration_id": "OSF preregistration https://osf.io/86v2h (registered prior to data collection); data/materials deposited at https://osf.io/a6cpz, DOI 10.17605/OSF.IO/A6CPZ",
+ "data_availability_statement": "The following information was supplied regarding data availability: The data and anonymized videos of participants performing resistance training sessions in both conditions are available at OSF: Wolf, Milo, and Patroklos Androulakis-Korakakis. 2024. \"Full Range of Motion vs. Partial Range of Motion at Longer-Muscle Lengths: Effects on Upper-Body Muscle Morphology and Strength.\" OSF. September 30. doi:10.17605/OSF.IO/A6CPZ. (p. 14-15/19)",
+ "journal": "PeerJ",
+ "journal_requires_data_sharing": "yes",
+ "registry_check": {
+  "outcome_var_matches_primary": "unclear",
+  "control_arm_matches": "no",
+  "issues": "(1) Studiendesign ist kein klassisches 2-Arm-Parallelgruppen-RCT, sondern ein Innerhalb-Person/kontralaterale-Extremitaet-Vergleich: 30 randomisierte Teilnehmer, deren zwei Arme je einer von zwei Trainingsbedingungen (pROM/fROM) zugelost wurden; jede Person liefert Daten zu beiden Bedingungen. 'arm_control'/'Kontrollarm' im klassischen Sinn existiert nicht - beide Bedingungen sind aktive Trainingsinterventionen. registry arm_control=1 (=pROM) ist nur eine Referenzcodierung fuer die Reanalyse, keine echte Kontrollgruppe -> control_arm_matches = 'no'. (2) Kein im Paper formal deklariertes primaeres Outcome (bestaetigt Registry-Notiz): vier Muskeldicke-Messorte (Ellbogenflexor 45%/55%, Ellbogenextensor 45%/55%) und zwei Kraft-Ausdauer-Messungen (10RM voll/partiell) werden als gleichrangige Co-Outcomes mit separaten Bayes-Faktoren berichtet (Tabelle 4). (3) Registry-outcome_var BB55 (Bizeps/Ellbogenflexor bei 55% Humeruslaenge) ist plausibel dem im Abstract zuerst genannten Outcome-Bereich (Muskeldicke, vor Kraft-Ausdauer genannt) zuzuordnen, aber im Abstract/Methodentext werden 45% und 55% stets gemeinsam und ohne Praeferenz genannt (45% wird textuell sogar zuerst erwaehnt) und Flexor/Extensor werden ebenfalls gemeinsam genannt -> outcome_var_matches_primary = 'unclear'. (4) n_randomised=30 und n_analysed=25 (5 Dropouts) stimmen mit den Rohdaten ueberein: 'Data Sheet.xlsx', Sheet 'Muscle Thickness', 25 Zeilen mit GROUP=1 und 25 Zeilen mit GROUP=2 fuer BB55. (5) Legendenzeilen ('1 = pROM', '2 = fROM') wurden am Ende der GROUP-Spalte in der Rohdatei bestaetigt; arm_include='1,2' filtert diese korrekt heraus. (6) primary_time/covars_published/strat_vars/cluster_vars/published_est/published_p sind in der Registry-Zeile leer - konsistent mit fehlender formaler Primaeranalyse-Deklaration im Paper; die in dieser JSON dokumentierten Schaetzer stammen direkt aus Tabelle 4 des Papers."
+ },
+ "analysis_method_quote": "Statistical analysis [...] Inferences were not drawn on within-condition change, as this was not the focus of our research question, although within-condition changes were descriptively presented to help contextualize our findings. The effect of condition (fROM vs. pROM) on outcome variables was estimated using linear mixed models with random effect structures included to account for the within-participant design (Bürkner, 2018). All inferences were made from posterior distributions of model parameters describing estimates of the effect of intervention allocation and the strength of evidence for either the null or alternative hypothesis of a mean group difference through Bayes factors with a standard scale used to qualitatively interpret the numerical value (e.g., \"anecdotal\", \"moderate\", \"strong\" support) (Michael & Wagenmakers, 2014). [...] All analyses were performed using the R wrapper package Bayesian Regression Models (brms) interfaced with Stan to perform sampling (Bürkner, 2018). (p. 7-8/19)",
+ "notes": "Within-participant (kontralaterale Extremitaet) Design, kein Parallelgruppen-RCT: n=30 randomisiert (Arme/Limbs pro Bedingung, entspricht 30 Personen), n=25 Completer analysiert. Primaeranalyse ist Bayesianisch (brms/Stan, informative Priors aus vorheriger Meta-Analyse Wolf et al. 2023), nicht frequentistisch; die in Tabelle 4 als 'p =' bezeichneten Werte sind KEINE klassischen zweiseitigen Frequentisten-p-Werte, sondern posteriore Wahrscheinlichkeiten dafuer, dass der Gruppenunterschied positiv ist ('p-values are calculated from the posterior distribution of the mean group difference parameter and express the probability of a positive value'). Bayes-Faktoren (0.16-0.39) sprechen durchgehend fuer 'anecdotal' bis 'moderate' Evidenz fuer die Nullhypothese (kein Unterschied fROM vs. pROM) ueber alle sechs berichteten Outcomes. Kein primaeres Outcome formal deklariert; wir haben gemaess Vorgabe das im Abstract zuerst genannte Outcome (Muskeldicke/Hypertrophie) als 'primaer' kodiert, mit dem Registry-outcome_var BB55 (Ellbogenflexor 55%) als spezifischem, aber nicht eindeutig privilegiertem Messort. Exakte Modellspezifikation (Fixed-/Random-Effekte-Formel, ob Baseline als Kovariate oder Zeit als Faktor modelliert wurde) wird im Methodentext nicht vollstaendig offengelegt -> mehrere B_-Felder als 'unclear' kodiert."
+}

@@ -1,0 +1,27 @@
+Aehnlichkeit der Pipeline-Datensaetze je Studie
+  cor = Pearson-Korrelation der Outcome-Vektoren zwischen Pipeline-Paaren
+  dist = euklidische Distanz auf standardisierten Vektoren (Formaenderung, nicht Skala)
+  changed = Anteil der Faelle, deren Wert sich gegenueber Pipeline 1 aendert
+
+  Studie                      Pipes  cor med  cor min  dist med   chg max
+  physiofeedback_PMC12821712      2   0.9642   0.9642    0.2670      100%
+  mulligan_PMC13092435            2   0.9703   0.9703    0.2396      100%
+  lytras_fms_PMC12942207          1       NA       NA        NA       NA%
+  clusterset_PMC13140343          2   0.9950   0.9950    0.0986      100%
+  tereco_PMC8318721               6   0.9613   0.9613    0.2771      100%
+  spadi_PMC4880881                3   1.0000   1.0000    0.0000        0%
+  tscs_PMC13085461                2   0.9920   0.9920    0.1233      100%
+  tdcs_PMC13257960                2   0.9997   0.9997    0.0256      100%
+  etip_PMC6886967                 6   0.9946   0.9946    0.1030      100%
+  phosphatidic_PMC4891923         2   0.9962   0.9962    0.0848      100%
+  facial_PMC11164989              4   0.9932   0.9932    0.1144      100%
+  gainingmore_PMC10809978         2   0.9958   0.9958    0.0907      100%
+  etre_PMC11945196                2   0.9997   0.9997    0.0236      100%
+  creatine_PMC11944689            6   0.9926   0.9926    0.1207      100%
+  free_PMC6733445                 3   1.0000   1.0000    0.0000        0%
+  mallorca_PMC8198819             4   0.9600   0.9600    0.2823      100%
+
+  Median ueber Studien: cor NA | dist NA
+  Studien, in denen ALLE Pipeline-Paare r > 0.99 haben: 11 von 16
+  WARNUNG: In der Mehrheit der Studien sind die Pipeline-Datensaetze praktisch identisch.
+   Vorzeichenstabilitaet ist dann keine Robustheitsaussage.

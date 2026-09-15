@@ -1,0 +1,37 @@
+boundary (singular) fit: see help('isSingular')
+                     study_id  v1_med v1_range v1_sign v2_med v2_range v2_sign
+1  physiofeedback_PMC12821712  0.0498    0.017    1.00  0.108    0.092       1
+2        mulligan_PMC13092435 -0.2179    0.193    1.00 -0.220    0.203       1
+3      lytras_fms_PMC12942207  0.8859    0.229    1.00 -0.884    0.229       1
+4      clusterset_PMC13140343  0.3762    0.011    1.00  0.059    0.118       1
+5           tereco_PMC8318721 -0.8515    0.105    1.00  0.843    0.121       1
+6            spadi_PMC4880881 -0.0437    0.169    0.67 -0.975    0.098       1
+7            tscs_PMC13085461 -1.0026    0.476    1.00  1.030    0.386       1
+8            tdcs_PMC13257960 -1.4603    0.069    1.00  1.424    0.057       1
+9             etip_PMC6886967  0.1914    0.067    1.00  0.192    0.209       1
+10    phosphatidic_PMC4891923 -0.1046    0.042    1.00  0.105    0.042       1
+11         facial_PMC11164989 -0.5666    0.252    1.00  1.495    0.101       1
+12    gainingmore_PMC10809978  0.0750    0.448    1.00 -0.090    0.407       1
+13           etre_PMC11945196 -1.2402    0.000    1.00 -0.903    0.366       1
+14       creatine_PMC11944689  0.0091    0.207    1.00  0.045    0.212       1
+15            free_PMC6733445  0.0911    0.047    1.00  0.091    0.061       1
+16        mallorca_PMC8198819 -0.3152    0.000    1.00 -0.315    0.000       1
+   sign_flip
+1      FALSE
+2      FALSE
+3       TRUE
+4      FALSE
+5       TRUE
+6      FALSE
+7       TRUE
+8       TRUE
+9      FALSE
+10      TRUE
+11      TRUE
+12      TRUE
+13     FALSE
+14     FALSE
+15     FALSE
+16     FALSE
+
+Median |d| v1 0.27 vs v2 0.27 | Median Spannweite v1 0.09 vs v2 0.12 | Vorzeichenwechsel des Medians: 7 von 16

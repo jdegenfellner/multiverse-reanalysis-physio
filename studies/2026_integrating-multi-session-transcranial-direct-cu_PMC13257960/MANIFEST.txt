@@ -1,0 +1,11 @@
+TITEL: Integrating multi-session transcranial direct current stimulation with routine physical therapy to improve quadriceps st
+DOI: 10.1371/journal.pone.0345947
+PMCID: PMC13257960
+JOURNAL: PloS one 2026
+DATA: 10.5281/zenodo.19831812
+CODE: 
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 1
+  [cached] tDCS.sav (0.01 MB)

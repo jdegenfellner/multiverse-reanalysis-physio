@@ -1,0 +1,12 @@
+TITEL: The Effect of Creatine Supplementation on Lean Body Mass with and Without Resistance Training
+DOI: 10.3390/nu17061081
+PMCID: PMC11944689
+JOURNAL: Nutrients 2025
+DATA: osf.io/4pu2t
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [cached] Desai-Data-LBM-segmental.xlsx (0.04 MB)
+  [cached] Desai-Data-LBM.xlsx (0.04 MB)

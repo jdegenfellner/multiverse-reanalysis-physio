@@ -1,0 +1,11 @@
+TITEL: Comparative effects of combined aerobic and resistance training versus high-intensity interval training on insulin resis
+DOI: 10.1371/journal.pone.0336898
+PMCID: PMC12694805
+JOURNAL: PloS one 2025
+DATA: osf.io/4q9xu
+CODE: 
+
+paper.pdf : ok
+
+Deposit-Dateien gefunden: 1
+  [cached] Results All.xlsx (0.01 MB)

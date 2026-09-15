@@ -1,0 +1,11 @@
+TITEL: Early Time-Restricted Eating Improves Weight Loss While Preserving Muscle: An 8-Week Trial in Young Women
+DOI: 10.3390/nu17061022
+PMCID: PMC11945196
+JOURNAL: Nutrients 2025
+DATA: 10.5281/zenodo.14885654
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Body data.csv (0.00 MB)

@@ -1,0 +1,41 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newtxtext,newtxmath}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{graphicx,booktabs,longtable,array,calc,caption,xcolor,setspace,microtype,pdflscape}
+\usepackage{amsmath}
+\usepackage[hidelinks,breaklinks]{hyperref}
+\usepackage{xurl}
+\usepackage[numbers,sort&compress]{natbib}
+\bibliographystyle{vancouver}
+\captionsetup{font=small,labelfont=bf,width=0.95\textwidth}
+\newcommand{\todo}[1]{\textcolor{red}{[#1]}}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setlength{\LTcapwidth}{\textwidth}
+\onehalfspacing
+\setlength{\parskip}{4pt}
+\title{Reproducibility without a mandate: computational reproduction and multiverse analysis of exercise, rehabilitation and physiotherapy trials with publicly deposited individual participant data}
+\author{J\"urgen Degenfellner\\[4pt]
+\normalsize Institute of Physiotherapy, School of Health Sciences,\\
+\normalsize ZHAW Zurich University of Applied Sciences, Winterthur, Switzerland\\
+\normalsize \texttt{degn@zhaw.ch} \quad ORCID 0000-0001-6886-4583}
+\date{Draft, 13 September 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+\noindent
+\input{abstract.tex}
+\end{abstract}
+\newpage
+\input{body.tex}
+\clearpage
+\begin{landscape}
+\section*{Tables}
+\footnotesize
+\input{tables.tex}
+\normalsize
+\end{landscape}
+\clearpage
+\bibliography{references}
+\end{document}

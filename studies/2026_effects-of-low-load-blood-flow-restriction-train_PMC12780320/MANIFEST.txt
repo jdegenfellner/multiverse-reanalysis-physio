@@ -1,0 +1,13 @@
+TITEL: Effects of Low-Load Blood-Flow Restriction Training Versus High-Load Resistance Training on Neuromuscular Performance an
+DOI: 10.1111/sms.70203
+PMCID: PMC12780320
+JOURNAL: Scandinavian journal of medicine & sci 2026
+DATA: osf.io/fz38r
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 3
+  [cached] Effects_of_low-load_blood-flow_restriction_training_versus_high-load_resistance_training_on_neuromuscular_perf (0.04 MB)
+  [cached] README_dataset.txt (0.00 MB)
+  [cached] bfRstats_0.0.1.tar.gz (31.17 MB)

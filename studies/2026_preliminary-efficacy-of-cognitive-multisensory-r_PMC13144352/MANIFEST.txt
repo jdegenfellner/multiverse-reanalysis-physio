@@ -1,0 +1,14 @@
+TITEL: Preliminary efficacy of cognitive multisensory rehabilitation for neuropathic pain in chronic spinal cord injury: a phas
+DOI: 10.1038/s41598-026-44859-w
+PMCID: PMC13144352
+JOURNAL: Scientific reports 2026
+DATA: 10.5061/dryad.7h44j1007
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 4
+  [FEHLER http=401] DATA_AIRP_for_Dryad_5.2.2023_no_identifiers.csv (0.01 MB)
+  [FEHLER http=401] DATA_AIRP_for_Dryad_5.2.2023_no_identifiers.xlsx (0.03 MB)
+  [FEHLER http=401] DATA_AIRP_for_Dryad_Legend_book.csv (0.01 MB)
+  [FEHLER http=401] README.md (0.01 MB)

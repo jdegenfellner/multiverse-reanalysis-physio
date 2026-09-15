@@ -1,0 +1,11 @@
+TITEL: Adhesive capsulitis of the shoulder, treatment with corticosteroid, corticosteroid with distension or treatment-as-usual
+DOI: 10.1186/s12891-016-1081-0
+PMCID: PMC4880881
+JOURNAL: BMC musculoskeletal disorders 2016
+DATA: osf.io/4xvru
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 1
+  [cached] Frozen shoulder RCTgr dataset 100516_art2_1.sav (0.03 MB)

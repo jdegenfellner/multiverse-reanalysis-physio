@@ -1,0 +1,26 @@
+# Rohdaten und Volltexte fremder Studien: nicht unser Material, bleiben lokal.
+# Die Deposits sind ueber die DOIs in candidates/deposit_contents.csv abrufbar,
+# Pruefsummen der analysierten Dateien stehen in config/data_checksums.csv.
+studies/*/deposit/
+studies/*/paper.pdf
+studies/*/paper.txt
+studies/*/paper_fulltext.xml
+# Literatur-PDFs (urheberrechtlich geschuetzt); manifest.csv und references.bib bleiben
+literature/*.pdf
+literature/style_models/*.pdf
+# LaTeX-Buildartefakte
+manuscript/latex/*.aux
+manuscript/latex/*.bbl
+manuscript/latex/*.blg
+manuscript/latex/*.log
+manuscript/latex/*.out
+manuscript/latex/*.toc
+manuscript/latex/build*.log
+manuscript/latex/bibtex.log
+manuscript/latex/biber.log
+manuscript/latex/main.run.xml
+manuscript/latex/main.bcf
+# System
+.DS_Store
+Rplots.pdf
+.Rhistory

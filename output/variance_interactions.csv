@@ -1,0 +1,9 @@
+"study_id","grid_type","n_spec","n_nodes","top_additive","share_additive","top_interaction_model","share_main_in_interaction_model","share_all_interactions"
+"free_PMC6733445","principled",35,4,"covars",55.2678764765505,"covars",42.725492607691,17.6675262607389
+"physiofeedback_PMC12821712","defensible",45,5,"transform",43.6877307127433,"transform",38.2408530686553,9.31414424491013
+"clusterset_PMC13140343","defensible",36,4,"baseline",98.2205221454537,"baseline",97.387649965186,0.847961466784185
+"tereco_PMC8318721","defensible",96,5,"transform",46.5907950159722,"transform",45.4611690251919,2.42456903856887
+"etip_PMC6886967","defensible",48,4,"transform",75.7448225848717,"transform",44.943632957005,40.664415832982
+"facial_PMC11164989","defensible",30,4,"baseline",98.7524277170892,"baseline",79.7601504636597,19.2322130123621
+"creatine_PMC11944689","defensible",48,4,"baseline",97.8610042369258,"baseline",95.4293287981067,2.48482575646975
+"free_PMC6733445","defensible",96,5,"baseline",49.9135032335299,"baseline",12.5058246044565,74.6491873786252

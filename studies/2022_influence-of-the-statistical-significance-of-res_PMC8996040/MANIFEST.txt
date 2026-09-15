@@ -1,0 +1,12 @@
+TITEL: Influence of the statistical significance of results and spin on readers' interpretation of the results in an abstract f
+DOI: 10.1136/bmjopen-2021-056503
+PMCID: PMC8996040
+JOURNAL: BMJ open 2022
+DATA: 10.5061/dryad.0cfxpnw2z
+CODE: 
+
+paper.pdf : cached
+
+Deposit-Dateien gefunden: 2
+  [FEHLER http=401] databinded.csv (0.04 MB)
+  [FEHLER http=401] README.txt (0.00 MB)

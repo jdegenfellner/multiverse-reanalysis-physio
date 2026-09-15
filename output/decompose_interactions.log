@@ -1,0 +1,43 @@
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+Note: model has aliased coefficients
+      sums of squares computed by model comparison
+                    study_id  grid_type n_spec n_nodes top_additive
+1            free_PMC6733445 principled     35       4       covars
+2 physiofeedback_PMC12821712 defensible     45       5    transform
+3     clusterset_PMC13140343 defensible     36       4     baseline
+4          tereco_PMC8318721 defensible     96       5    transform
+5            etip_PMC6886967 defensible     48       4    transform
+6         facial_PMC11164989 defensible     30       4     baseline
+7       creatine_PMC11944689 defensible     48       4     baseline
+8            free_PMC6733445 defensible     96       5     baseline
+  share_additive top_interaction_model share_main_in_interaction_model
+1           55.3                covars                            42.7
+2           43.7             transform                            38.2
+3           98.2              baseline                            97.4
+4           46.6             transform                            45.5
+5           75.7             transform                            44.9
+6           98.8              baseline                            79.8
+7           97.9              baseline                            95.4
+8           49.9              baseline                            12.5
+  share_all_interactions
+1                 17.668
+2                  9.314
+3                  0.848
+4                  2.425
+5                 40.664
+6                 19.232
+7                  2.485
+8                 74.649
+
+Dominanter Knoten wechselt in 0 von 8 Faellen

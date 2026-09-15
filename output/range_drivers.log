@@ -1,0 +1,54 @@
+                     study_id   n baseline_imbalance_sd cor_base_outcome
+12    gainingmore_PMC10809978  39                 0.411             0.92
+7            tscs_PMC13085461  20                 0.409             0.88
+13           etre_PMC11945196  16                 0.398             0.87
+3      lytras_fms_PMC12942207  40                 0.217             0.38
+14       creatine_PMC11944689  64                 0.239             1.00
+9             etip_PMC6886967  91                 0.038             0.55
+2        mulligan_PMC13092435  29                 0.162             0.63
+5           tereco_PMC8318721 119                 0.165             0.61
+4      clusterset_PMC13140343  36                 0.105             0.98
+11         facial_PMC11164989  24                 0.101             0.50
+6            spadi_PMC4880881  72                 0.108             0.49
+1  physiofeedback_PMC12821712 276                 0.041             0.47
+15            free_PMC6733445 226                 0.024             0.23
+8            tdcs_PMC13257960  20                 0.071             0.19
+10    phosphatidic_PMC4891923  18                 0.043             0.99
+16        mallorca_PMC8198819 294                    NA               NA
+   frac_missing range_p range_d
+12        0.000   0.407   0.457
+7         0.000   0.386   0.522
+13        0.000   0.366   0.386
+3         0.000   0.229   0.229
+14        0.016   0.212   0.263
+9         0.352   0.209   0.270
+2         0.000   0.203   0.294
+5         0.059   0.121   0.380
+4         0.000   0.118   0.126
+11        0.042   0.101   0.249
+6         0.014   0.098   0.132
+1         0.000   0.092   0.160
+15        0.053   0.061   0.198
+8         0.000   0.057   0.087
+10        0.000   0.042   0.050
+16        0.105   0.000   0.034
+
+Spearman mit principled-Spannweite:
+  n                      rho = -0.29 (n = 16)
+  baseline_imbalance_sd  rho =  0.82 (n = 15)
+  cor_base_outcome       rho =  0.39 (n = 15)
+  frac_missing           rho = -0.26 (n = 16)
+
+Wilson-Intervalle:
+   6/12  =   50%  Wilson  25% bis  75%
+   8/12  =   67%  Wilson  39% bis  86%
+   9/12  =   75%  Wilson  47% bis  91%
+  12/12  =  100%  Wilson  76% bis 100%
+  15/16  =   94%  Wilson  72% bis  99%
+  14/16  =   88%  Wilson  64% bis  97%
+  16/48  =   33%  Wilson  22% bis  47%
+  16/152 =   11%  Wilson   7% bis  16%
+   7/16  =   44%  Wilson  23% bis  67%
+   1/16  =    6%  Wilson   1% bis  28%
+   4/16  =   25%  Wilson  10% bis  49%
+  13/16  =   81%  Wilson  57% bis  93%
