@@ -235,7 +235,8 @@ transformation), each with a verbatim quotation. Where a paper reported only a t
 statistic or a p-value, the trial was classified as having no point estimate. Two documented
 adjustments were made to the extracted values. For the time-restricted eating trial [Yu_2025] the
 published primary estimate is the time-by-group interaction of a mixed model, reported as
-control minus intervention. I use it with the sign of my convention. For the
+control minus intervention (2.13 kg). All arm contrasts in this paper are intervention minus
+control, so the value enters as -2.13 kg with its interval reflected accordingly. For the
 phosphatidic acid trial [Escalante_2016] the value first extracted was an F statistic. The trial was
 reclassified as having no point estimate.
 
